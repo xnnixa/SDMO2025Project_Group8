@@ -1,0 +1,8 @@
+Metric, Value, Explanation
+Total predicted pairs, 5552, Total duplicate candidates identified by the heuristic
+True Positives (TP), 369, Pairs that are actually the same developer
+False Positives (FP), 5183, Pairs incorrectly matched as duplicates
+Estimated total real duplicates, 531, Developers with multiple names/emails in the repo
+Precision, 0.066 (6.6%), Only ~6.6% of predicted duplicates are correct
+Recall (approx.), 0.695 (69.5%), The heuristic catches most of the real duplicates
+F1 Score, 0.121 (12.1%), Low overall accuracy due to many false positives
