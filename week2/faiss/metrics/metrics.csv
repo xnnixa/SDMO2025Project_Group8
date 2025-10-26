@@ -1,0 +1,4 @@
+Method,Total predicted pairs,True Positives (TP),False Positives (FP),Estimated total real duplicates,Precision,Recall (approx),F1 Score
+Bird Heuristic (t=0.7),5552,369,5183,531,0.066,0.695,0.121
+Improved Heuristic (Jaro-Winkler (t=0.75)),662,199,463,531,0.301,0.375,0.334
+FAISS Semantic (t=0.8),783,322,461,531,0.411,0.606,0.49

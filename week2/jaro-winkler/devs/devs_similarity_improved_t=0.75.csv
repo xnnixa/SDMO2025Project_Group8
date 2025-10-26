@@ -1,0 +1,663 @@
+name_1,email_1,name_2,email_2,name_sim,prefix_sim,same_domain,score
+Aaron Hill,aa1ronham@gmail.com,Aron Zwaan,aronzwaan@gmail.com,0.6666666666666666,0.7333333333333334,True,0.76
+Aaron Hill,aa1ronham@gmail.com,Taryn Hill,Phrohdoh@gmail.com,0.8666666666666667,0.5694444444444444,True,0.7744444444444445
+Abhay Soni,asoni3@ncsu.edu,asoni3,asoni3@ncsu.edu,0.4222222222222222,1.0,True,0.768888888888889
+Achal Shah,achal@uber.com,Achal Shah,achals@gmail.com,1.0,0.9666666666666667,False,0.7866666666666667
+Achal Shah,achals@gmail.com,Akshay Chiwhane,achiwhane@gmail.com,0.7833333333333332,0.7925925925925926,True,0.8303703703703704
+Achal Shah,achals@gmail.com,Maharsh,maharsh312@gmail.com,0.7380952380952381,0.6888888888888888,True,0.7707936507936508
+Achal Shah,achals@gmail.com,Raphael Nestler,raphael.nestler@gmail.com,0.6666666666666666,0.7222222222222223,True,0.7555555555555555
+Adam Sunderland,iterion@gmail.com,Claes 'Letharion' Gyllensvärd,letharion@gmail.com,0.6226711560044893,0.7857142857142857,True,0.76335417668751
+Adenilson Cavalcanti,a.cavalcanti@samsung.com,Adenilson Cavalcanti,a.cavalcanti@sisa.samsung.com,1.0,1.0,False,0.8
+Adenilson Cavalcanti,cavalcantii@gmail.com,Nazım Can Altınova,canaltinova@gmail.com,0.6368945868945869,0.7878787878787878,True,0.7699093499093499
+Adit Jain,aditjain1980@gmail.com,Adrian Utrilla,adrianutrilla@gmail.com,0.7894179894179895,0.6120268620268621,True,0.7605779405779407
+Adit Jain,aditjain1980@gmail.com,Attila Dusnoki,dati91@gmail.com,0.7630952380952382,0.6666666666666666,True,0.7719047619047619
+Adit Jain,aditjain1980@gmail.com,Mariot Chauvin,mariot.chauvin@gmail.com,0.7592592592592592,0.6428571428571429,True,0.7608465608465609
+Adit Jain,aditjain1980@gmail.com,adit,aditjain1980@gmail.com,0.888888888888889,1.0,True,0.9555555555555557
+Adit Jain,aditjain1980@gmail.com,aditj,aditjain1980@gmail.com,0.9111111111111111,1.0,True,0.9644444444444444
+Adrian Heine,mail@adrianheine.de,Adrian Heine né Lang,mail@adrianlang.de,0.92,1.0,False,0.768
+Adrian Utrilla,adrianutrilla@gmail.com,Adrian Wielgosik,adrian.wielgosik@gmail.com,0.8410714285714286,0.8230769230769232,True,0.8656593406593407
+Adrian Utrilla,adrianutrilla@gmail.com,Adrián Arroyo Calle,adrian.arroyocalle@gmail.com,0.8547505126452495,0.844957264957265,True,0.8798831110410059
+Adrian Utrilla,adrianutrilla@gmail.com,Aravind Gollakota,aravindprasant@gmail.com,0.7480137509549274,0.6672771672771672,True,0.7661163672928379
+Adrian Utrilla,adrianutrilla@gmail.com,Arnaud Marant,arnaudmarant@gmail.com,0.7550549450549451,0.7326923076923078,True,0.7950989010989011
+Adrian Utrilla,adrianutrilla@gmail.com,Arya Nair,aryaajitnair@gmail.com,0.7404761904761905,0.7326923076923078,True,0.7892673992673993
+Adrian Utrilla,adrianutrilla@gmail.com,adit,aditjain1980@gmail.com,0.8095238095238095,0.6120268620268621,True,0.7686202686202686
+Adrian Wielgosik,adrian.wielgosik@gmail.com,Andreas Gal,andreas.gal@gmail.com,0.7402272727272727,0.7402272727272727,True,0.7921818181818183
+Adrian Wielgosik,adrian.wielgosik@gmail.com,Kamil Niski,kamil.niski@gmail.com,0.719486531986532,0.719486531986532,True,0.7755892255892256
+Adrián Arroyo Calle,adrian.arroyocalle@gmail.com,Florent FAYOLLE,florent.fayolle69@gmail.com,0.6976608187134503,0.6812636165577342,True,0.7515697741084737
+Agoston Szepessy,agszepp@gmail.com,AgostonSzepessy,agszepp@gmail.com,0.9874999999999999,1.0,True,0.9950000000000001
+Agustin Chiappe Berrini,jnieve@gmail.com,AgustinCB,jnieve@gmail.com,0.8782608695652174,1.0,True,0.951304347826087
+Akash Pateria,pateria.akash77@gmail.com,Akash-Pateria,pateria.akash77@gmail.com,0.9846153846153847,1.0,True,0.9938461538461538
+Akash Pateria,pateria.akash77@gmail.com,Rakhi Sharma,atbrakhi@gmail.com,0.719017094017094,0.6853174603174604,True,0.7617338217338219
+Akash-Pateria,pateria.akash77@gmail.com,Akshit Khurana,axitkhurana@gmail.com,0.8084656084656084,0.6057720057720059,True,0.7656950456950458
+Akash-Pateria,pateria.akash77@gmail.com,Peter,piter.zh@gmail.com,0.7111111111111111,0.6853174603174604,True,0.7585714285714287
+Akash-Pateria,pateria.akash77@gmail.com,akshitkrnagpal,akshitkrnagpal@gmail.com,0.826031746031746,0.5603174603174603,True,0.7545396825396826
+Akshay Chiwhane,achiwhane@gmail.com,Akshit Khurana,axitkhurana@gmail.com,0.8263492063492064,0.6033670033670034,True,0.7718864838864841
+Akshit Khurana,axitkhurana@gmail.com,Ashwin Naren,arihant2math@gmail.com,0.7339285714285715,0.6446608946608947,True,0.7514357864357866
+Akshit Khurana,axitkhurana@gmail.com,Rakhi Sharma,atbrakhi@gmail.com,0.7492063492063492,0.654040404040404,True,0.7612987012987014
+Akshit Khurana,axitkhurana@gmail.com,akshitkrnagpal,akshitkrnagpal@gmail.com,0.8961038961038961,0.7383116883116883,True,0.8537662337662337
+Alastor Wu,alwu@mozilla.com,alwu,alwu@mozilla.com,0.5666666666666667,1.0,True,0.8266666666666667
+Alberto Leal,mailforalberto@gmail.com,Carlo Abelli,carlo.abelli@gmail.com,0.7555555555555555,0.621031746031746,True,0.7506349206349205
+Alex Fong,alexfongg@gmail.com,Alex Gaynor,alex.gaynor@gmail.com,0.8982323232323232,0.8542568542568543,True,0.900995670995671
+Alex Fong,alexfongg@gmail.com,Alexis Beingessner,a.beingessner@gmail.com,0.8333333333333334,0.584045584045584,True,0.766951566951567
+Alex Gaynor,agaynor@mozilla.com,Alex Gaynor,alex.gaynor@gmail.com,1.0,0.8909090909090909,False,0.7563636363636363
+Alex Gaynor,agaynor@mozilla.com,alfredoyang,ayang@mozilla.com,0.767965367965368,0.7364285714285714,True,0.8017575757575759
+Alex Gaynor,alex.gaynor@gmail.com,Alexander Lopatin,alopatindev@gmail.com,0.8250742721330957,0.5757575757575758,True,0.7603327391562686
+Alex Gaynor,alex.gaynor@gmail.com,Alexander Surkov,surkov.alexander@gmail.com,0.8316919191919192,0.6454124579124579,True,0.7908417508417509
+Alex Gaynor,alex.gaynor@gmail.com,Dan Glastonbury,dan.glastonbury@gmail.com,0.7118686868686869,0.7118686868686869,True,0.7694949494949495
+Alex Gaynor,alex.gaynor@gmail.com,Kyle Nosar,kylenosar@gmail.com,0.7311688311688312,0.6818181818181818,True,0.7651948051948052
+Alex Touchet,alextouchet@outlook.com,atouchet,alextouchet@outlook.com,0.7875,1.0,True,0.915
+Alexander Lopatin,alopatindev@gmail.com,Alexander Surkov,surkov.alexander@gmail.com,0.8669117647058824,0.5757575757575758,True,0.7770677361853833
+Alexander Surkov,surkov.alexander@gmail.com,Alexandrov Sergey,splavgm@gmail.com,0.8968487394957984,0.5238095238095238,True,0.7682633053221288
+Alexandrov Sergey,splavgm@gmail.com,Sergey Alexandrov,splavgm@gmail.com,0.6892911010558068,1.0,True,0.8757164404223228
+Ali Sabil,ali.sabil@gmail.com,Carlo Abelli,carlo.abelli@gmail.com,0.7394179894179894,0.7394179894179894,True,0.7915343915343915
+Ali Sabil,ali.sabil@gmail.com,Malisa Smith,malisa.tsmith@gmail.com,0.7394179894179894,0.7244607244607244,True,0.7855514855514856
+Ali Sabil,ali.sabil@gmail.com,Michael Partheil,michael.partheil@gmail.com,0.6908068783068783,0.6908068783068783,True,0.7526455026455026
+Ali Sabil,ali.sabil@gmail.com,Nicolas Silva,nical.silva@gmail.com,0.6768416768416768,0.757094757094757,True,0.7735745735745736
+Andre Bogus,bogusandre@gmail.com,Andrei Volykhin,andrei.volykhin@gmail.com,0.8206060606060606,0.611111111111111,True,0.7726868686868686
+Andre Silva,andre.beat@gmail.com,Andreas Gal,andreas.gal@gmail.com,0.882828282828283,0.8387012987012987,True,0.8886118326118326
+Andre Silva,andre.beat@gmail.com,Andrei Volykhin,andrei.volykhin@gmail.com,0.8391919191919193,0.6666666666666666,True,0.8023434343434344
+Andre Silva,andre.beat@gmail.com,Andrés Barreiro,andres.bga@gmail.com,0.8391919191919193,0.92,True,0.9036767676767679
+Andre Silva,andre.beat@gmail.com,Brian Anderson,andersrb@gmail.com,0.6721981721981724,0.8094444444444445,True,0.7926570466570468
+Andre Silva,andre.beat@gmail.com,drexler,andrew.quartey@gmail.com,0.6450216450216449,0.8863492063492064,True,0.8125483405483405
+Andreas Gal,andreas.gal@gmail.com,Andrei Volykhin,andrei.volykhin@gmail.com,0.8206060606060606,0.8206060606060606,True,0.8564848484848484
+Andreas Gal,andreas.gal@gmail.com,Andrés Barreiro,andres.bga@gmail.com,0.8271212121212121,0.8991919191919192,True,0.8905252525252525
+Andreas Gal,andreas.gal@gmail.com,Aneesh Agrawal,aneeshusa@gmail.com,0.8195670995670995,0.6033670033670034,True,0.7691736411736412
+Andreas Gal,andreas.gal@gmail.com,Ankit Agrawal,ankitagrawal.in@gmail.com,0.7913752913752913,0.6285353535353536,True,0.767964257964258
+Andreas Gal,andreas.gal@gmail.com,Brian Anderson,andersrb@gmail.com,0.5995670995670995,0.7967171717171718,True,0.7585137085137086
+Andreas Gal,andreas.gal@gmail.com,Jan Varga,jan.varga@gmail.com,0.757094757094757,0.757094757094757,True,0.8056758056758058
+Andreas Gal,andreas.gal@gmail.com,Leonardo Santagada,santagada@gmail.com,0.7215488215488216,0.6700336700336701,True,0.7566329966329968
+Andreas Gal,andreas.gal@gmail.com,Sean Stangl,sean.stangl@gmail.com,0.7348484848484849,0.7348484848484849,True,0.7878787878787878
+Andreas Gal,andreas.gal@gmail.com,askalski,andrzej.j.skalski@gmail.com,0.5492424242424242,0.8472964943553178,True,0.7586155674390969
+Andreas Tolfsen,ato@mozilla.com,Andrew Osmond,aosmond@mozilla.com,0.8362393162393162,0.6507936507936508,True,0.7948131868131869
+Andreas Tolfsen,ato@mozilla.com,Mats Palmgren,mats@mozilla.com,0.6745726495726495,0.7222222222222222,True,0.7587179487179487
+Andrei Volykhin,andrei.volykhin@gmail.com,Dominik Boehi,dominik.boehi@gmail.com,0.69002849002849,0.69002849002849,True,0.752022792022792
+Andrei Volykhin,andrei.volykhin@gmail.com,Eric Holk,eric.holk@gmail.com,0.7005291005291006,0.7005291005291006,True,0.7604232804232804
+Andrew Fluth,afluth@gmail.com,Andrew Shu,talklittle@gmail.com,0.9077777777777777,0.48888888888888893,True,0.7586666666666666
+Andrew Fluth,afluth@gmail.com,Hayden Faulds,fauldsh@gmail.com,0.6773504273504273,0.7158730158730159,True,0.7572893772893772
+Andrés Barreiro,andres.bga@gmail.com,Brian Anderson,andersrb@gmail.com,0.6603174603174603,0.8674999999999999,True,0.8111269841269841
+Andrés Barreiro,andres.bga@gmail.com,askalski,andrzej.j.skalski@gmail.com,0.5888888888888889,0.8291176470588235,True,0.7672026143790849
+Andrés Barreiro,andres.bga@gmail.com,drexler,andrew.quartey@gmail.com,0.6158730158730159,0.8400000000000001,True,0.7823492063492063
+Aneesh Agrawal,aneeshusa@gmail.com,Manish Goregaokar,manishsmail@gmail.com,0.6675070028011204,0.7373737373737373,True,0.7619522960699432
+Angel,aoble28@gmail.com,angelortiz1007,aoble248@gmail.com,0.8714285714285714,0.975,True,0.9385714285714286
+Ankit Agrawal,ankitagrawal.in@gmail.com,Kshitij Parajuli,kshitijparajuli@gmail.com,0.7051282051282052,0.6888888888888888,True,0.7576068376068377
+Ankit Agrawal,ankitagrawal.in@gmail.com,Mukilan Thiyagarajan,mukilan.thiagarajan@gmail.com,0.7021367521367522,0.7472013366750208,True,0.7797352355247091
+Ankit Agrawal,ankitagrawal.in@gmail.com,Mukilan Thiyagarajan,mukilanthiagarajan@gmail.com,0.7021367521367522,0.7347578347578348,True,0.7747578347578348
+Ankit Agrawal,ankitagrawal.in@gmail.com,akshitkrnagpal,akshitkrnagpal@gmail.com,0.7672161172161173,0.6936507936507935,True,0.7843467643467643
+Anthony Miyaguchi,acmiyaguchi@gmail.com,Antony Nyagah,tony.m.nyagah@gmail.com,0.8817496229260936,0.5463869463869464,True,0.7712546277252159
+Anthony Ramine,n.oxyde@gmail.com,Anthony Weston,anthonyelliotweston@gmail.com,0.8657142857142858,0.5939849624060151,True,0.7838796992481203
+Anthony Ramine,n.oxyde@gmail.com,Antoine Martin,antoine97.martin@gmail.com,0.8787878787878788,0.5386904761904762,True,0.7669913419913421
+Anthony Ramine,n.oxyde@gmail.com,Antonio de Luna,tonydelun@gmail.com,0.808888888888889,0.6899470899470899,True,0.7995343915343915
+Anthony Weston,anthonyelliotweston@gmail.com,Antoine Martin,antoine97.martin@gmail.com,0.8074074074074075,0.6416910331384015,True,0.7796393762183236
+Anthony Weston,anthonyelliotweston@gmail.com,Donovan Preston,donovanpreston@gmail.com,0.7603174603174603,0.6468671679197995,True,0.7628738512949038
+Antoine Martin,antoine97.martin@gmail.com,Fernando Martins,martins.fernandomiguel@gmail.com,0.8412698412698413,0.6262626262626263,True,0.7870129870129869
+Antoine Martin,antoine97.martin@gmail.com,Gabriel Majeri,gabriel.majeri6@gmail.com,0.7142857142857143,0.6777777777777777,True,0.7568253968253968
+Antoine Martin,antoine97.martin@gmail.com,Kenan Rhoton,kenan.rhoton@gmail.com,0.7235449735449735,0.6597222222222222,True,0.7533068783068784
+Antonio de Luna,tonydelun@gmail.com,Antony Nyagah,tony.m.nyagah@gmail.com,0.8297435897435897,0.6467236467236467,True,0.7905868945868946
+Antonio de Luna,tonydelun@gmail.com,OneKorg,tonydelun@gmail.com,0.4317460317460317,1.0,True,0.7726984126984127
+Ar13mis,kingtut5474@gmail.com,Jacob Thomas,kingtut5474@gmail.com,0.5595238095238095,1.0,True,0.8238095238095238
+Aravind Gollakota,aravindprasant@gmail.com,Arnaud Marant,arnaudmarant@gmail.com,0.6664990782637842,0.826031746031746,True,0.7970123297182121
+Aravind Gollakota,aravindprasant@gmail.com,Arya Nair,aryaajitnair@gmail.com,0.6822284469343293,0.7788359788359788,True,0.7844257703081232
+Aravind Gollakota,aravindprasant@gmail.com,paavininanda,paavininanda@gmail.com,0.670751633986928,0.7605820105820106,True,0.7725334578275755
+Arjun Ramachandrula,arjun.ramachandrula@gmail.com,Arnaud Marant,arnaudmarant@gmail.com,0.7739663844927004,0.6865497076023391,True,0.7842064368380157
+Arjun Ramachandrula,arjun.ramachandrula@gmail.com,Saurabh Anand,saurabhanandiit@gmail.com,0.7174579806158755,0.664327485380117,True,0.752714186398397
+Arnaud Marant,arnaudmarant@gmail.com,Aron Zwaan,aronzwaan@gmail.com,0.6985347985347986,0.7777777777777778,True,0.7905250305250306
+Arnaud Marant,arnaudmarant@gmail.com,Arya Nair,aryaajitnair@gmail.com,0.7795685795685795,0.6944444444444443,True,0.7896052096052095
+Arnaud Marant,arnaudmarant@gmail.com,Saurabh Anand,saurabhanandiit@gmail.com,0.6602564102564102,0.7333333333333334,True,0.7574358974358975
+Arnaud Marant,arnaudmarant@gmail.com,Swarnim Arun,swarnimarun11@gmail.com,0.719017094017094,0.6773504273504273,True,0.7585470085470085
+Aron Zwaan,aronzwaan@gmail.com,Jason Tran,jasontran1209@gmail.com,0.7333333333333334,0.6538461538461539,True,0.7548717948717949
+Ashwin Naren,arihant2math@gmail.com,Ashwin R,ashwinravichandran24@gmail.com,0.9333333333333333,0.5638888888888889,True,0.798888888888889
+Askeing Yen (fyen),askeing@gmail.com,Daosheng Mu,daoshengmu@gmail.com,0.6401515151515151,0.7380952380952381,True,0.7512987012987014
+Askeing Yen (fyen),askeing@gmail.com,askeing,askeing@gmail.com,0.8875,1.0,True,0.9550000000000001
+Atbrakhi,atbrakhi@igalia.com,atbrakhi,atbrakhi@gmail.com,1.0,1.0,False,0.8
+Atbrakhi,atbrakhi@igalia.com,atbrakhi,atbrakhi@igalia.com,1.0,1.0,True,1.0
+Attila Dusnoki,dati91@gmail.com,Attila Dusnoki,dati91@users.noreply.github.com,1.0,1.0,False,0.8
+Attila Dusnoki,dati91@gmail.com,Daniel Johnson,danielj41@gmail.com,0.6190476190476191,0.762962962962963,True,0.7528042328042328
+Avi Weinstock,aweinstock314@gmail.com,David Winslow,cdwinslow@gmail.com,0.7948717948717948,0.6467236467236467,True,0.7766381766381767
+Bailey Blankenship,bblanke@ncsu.edu,Bhavya Bansal,bbansal@ncsu.edu,0.6196581196581197,0.7714285714285715,True,0.7564346764346765
+Barigbue Nbira,barigbuenbira@gmail.com,Brian Grinstead,briangrinstead@gmail.com,0.7466233766233765,0.7550549450549451,True,0.8006713286713287
+Ben Freist,ben.freist@gmail.com,Ben Hsu,driftersprt@gmail.com,0.8428571428571429,0.5848484848484848,True,0.771082251082251
+Ben Freist,ben.freist@gmail.com,Ben Striegel,ben.striegel@gmail.com,0.8855555555555555,0.8855555555555555,True,0.9084444444444444
+Ben Freist,ben.freist@gmail.com,Joel Feenstra,jrfeenst@gmail.com,0.6871794871794871,0.763095238095238,True,0.7801098901098902
+Ben Striegel,ben.striegel@gmail.com,Eric Hegnes,eric.hegnes@gmail.com,0.6922799422799423,0.6922799422799423,True,0.753823953823954
+Bhavya Bansal,bbansal@ncsu.edu,Maria Sable,masable@ncsu.edu,0.6773226773226773,0.7142857142857143,True,0.7566433566433566
+Bi Fuguo,1782765876@qq.com,Fuguo,1782765876@qq.com,0.875,1.0,True,0.95
+Bipin,peacerebel@protonmail.com,peacerebel,peacerebel@protonmail.com,0.43333333333333335,1.0,True,0.7733333333333334
+Bogdan,boghison22@gmail.com,Bogdan Cuza,boghison22@gmail.com,0.9090909090909091,1.0,True,0.9636363636363636
+Brad Werth,bwerth@mozilla.com,Brad Werth,werth@efn.org,1.0,0.9444444444444445,False,0.7777777777777779
+Brian Anderson,andersrb@gmail.com,Brian Grinstead,briangrinstead@gmail.com,0.8674458874458875,0.5273809523809524,True,0.7579307359307359
+Brian Anderson,andersrb@gmail.com,Dan Robertson,dan.robertson14@gmail.com,0.6611721611721612,0.7194444444444444,True,0.7522466422466423
+Brian Anderson,andersrb@gmail.com,Martin Robinson,martin.james.robinson@gmail.com,0.6936507936507935,0.6884920634920634,True,0.7528571428571427
+Brian Birtles,birtles@gmail.com,Brian Grinstead,briangrinstead@gmail.com,0.8795337995337995,0.557142857142857,True,0.7746706626706628
+Brian Birtles,birtles@gmail.com,Bryan Gilbert,gilbertw1@gmail.com,0.820979020979021,0.6746031746031745,True,0.7982328782328783
+Brian Burg,burg@cs.washington.edu,Brian J. Burg,burg@cs.washington.edu,0.9666666666666667,1.0,True,0.9866666666666668
+Brian Grinstead,briangrinstead@gmail.com,Bruno de Oliveira Abinader,brunoabinader@gmail.com,0.6278943278943279,0.7822710622710624,True,0.7640661560661561
+Brian Grinstead,briangrinstead@gmail.com,Michael Brennan,brennan.brisad@gmail.com,0.5968253968253968,0.7942857142857143,True,0.7564444444444445
+Brian Grinstead,briangrinstead@gmail.com,Rasmus Viitanen,rasviitanen@gmail.com,0.6777777777777777,0.7092352092352092,True,0.7548051948051948
+Bridget McErlean,bridgetmcerlean@gmail.com,Jesse Ruderman,jruderman@gmail.com,0.6797619047619049,0.7005291005291006,True,0.7521164021164022
+Bruno de Oliveira Abinader,bruno.d@partner.samsung.com,Bruno de Oliveira Abinader,bruno@mapbox.com,1.0,0.9428571428571428,False,0.7771428571428571
+Bruno de Oliveira Abinader,bruno@mapbox.com,Bruno de Oliveira Abinader,brunoabinader@gmail.com,1.0,0.8769230769230769,False,0.7507692307692309
+Bryan Bell,bryan.w.bell@gmail.com,Bryan Gilbert,gilbertw1@gmail.com,0.8962393162393162,0.5092592592592592,True,0.7621994301994302
+CHANG FU CHIAO,zector1030@gmail.com,Changwan Hong,cwhong893@gmail.com,0.8448107448107449,0.5444444444444444,True,0.7557020757020758
+CJ Ku,cku@mozilla.com,cku,cku@mozilla.com,0.5111111111111111,1.0,True,0.8044444444444445
+CYBAI,cyb.ai.815@gmail.com,cybai,cyb.ai.815@gmail.com,1.0,1.0,True,1.0
+CYBAI,cyb.ai.815@gmail.com,cybai (Haku),cyb.ai.815@gmail.com,0.9,1.0,True,0.96
+Camelid,camelidcamel@gmail.com,camelid,camelidcamel@gmail.com,1.0,1.0,True,1.0
+Carlo Abelli,carlo.abelli@gmail.com,Carlos Bentzen,cadubentzen@gmail.com,0.8476190476190476,0.5656565656565656,True,0.7653102453102454
+Carlos Bentzen,cadubentzen@gmail.com,cadubentzen,cadubentzen@gmail.com,0.8562770562770563,1.0,True,0.9425108225108225
+Cathie Chen,cathiechen@igalia.com,cathiechen,cathiechen@igalia.com,0.9818181818181818,1.0,True,0.9927272727272727
+Charles Vandevoorde,charles.vandevoorde@hotmail.be,charlesvdv,charles.vandevoorde@hotmail.be,0.9052631578947368,1.0,True,0.9621052631578948
+Chintan Gandhi,chintangandhi97caa@gmail.com,Christian Gati,christian.gati@gmail.com,0.820952380952381,0.6402116402116401,True,0.7844656084656085
+Chintan Gandhi,chintangandhi97caa@gmail.com,Tawhid Hannan,t.hannan93@gmail.com,0.7560772560772561,0.6648148148148149,True,0.7683568283568283
+Chirag Jain,csjain@ncsu.edu,Jitendra Jain,jsjain@ncsu.edu,0.7808857808857809,0.8222222222222223,True,0.8412432012432014
+Chocolate Pie,106949016+chocolate-pie@users.noreply.github.com,chocolate-pie,106949016+chocolate-pie@users.noreply.github.com,0.9846153846153847,1.0,True,0.9938461538461538
+Chris Jones,cjones.bugs@gmail.com,Christopher Hotchkiss,christopher.hotchkiss@gmail.com,0.8271284271284272,0.5548340548340548,True,0.7527849927849928
+Christian Gati,christian.gati@gmail.com,Christopher Hotchkiss,christopher.hotchkiss@gmail.com,0.6904761904761904,0.6904761904761904,True,0.7523809523809524
+Christian Gati,christian.gati@gmail.com,Cristian Brinza,cristianb@gmail.com,0.8284415584415585,0.8380952380952381,True,0.8666147186147186
+Christian Gati,christian.gati@gmail.com,Hinali Marfatia,hinalimarfatia@gmail.com,0.7105820105820105,0.6878306878306879,True,0.7593650793650795
+Christian Gati,christian.gati@gmail.com,Prashant Gupta,prashantgupta24@gmail.com,0.7095238095238096,0.6735449735449736,True,0.7532275132275132
+Christian Gati,christian.gati@gmail.com,Sebastian Gift,sebastian.gift@gmail.com,0.7761904761904762,0.7761904761904762,True,0.8209523809523811
+Christian Poveda,christianpoveda@protonmail.com,Christian Poveda,z1mvader@protonmail.com,1.0,0.4138888888888889,True,0.7655555555555555
+Christian Poveda,z1mvader@protonmail.com,z1mvader,z1mvader@protonmail.com,0.40972222222222215,1.0,True,0.7638888888888888
+Clark Gaebel,cgaebel@mozilla.com,Clark Gaebel,cgaebel@uwaterloo.ca,1.0,1.0,False,0.8
+Connor Brewster,brewsterc@my.caspercollege.edu,Connor Brewster,cbrewster@mozilla.com,1.0,0.9259259259259259,False,0.7703703703703704
+Connor Brewster,cbrewster@mozilla.com,Michael Woerister,mwoerister@mozilla.com,0.6183006535947713,0.7783068783068784,True,0.7586430127606598
+Connor Imes,connor.k.imes@gmail.com,Connor Jennings,cojennin@gmail.com,0.8951515151515151,0.6698717948717948,True,0.826009324009324
+Cristian Brinza,cristianb@gmail.com,Rasmus Viitanen,rasviitanen@gmail.com,0.6777777777777777,0.7094757094757095,True,0.754901394901395
+Dae-seon Moon,daeseonmoon@gmail.com,Daosheng Mu,daoshengmu@gmail.com,0.8050505050505051,0.784935064935065,True,0.8359942279942281
+Dae-seon Moon,daeseonmoon@gmail.com,Dominic Cooney,dominic.cooney@gmail.com,0.7339285714285715,0.6645021645021645,True,0.7593722943722945
+Daisuke Akatsuka,dakatsuka@mozilla.com,daisuke,dakatsuka@mozilla.com,0.8875,1.0,True,0.9550000000000001
+Dale Wijnand,344610+dwijnand@users.noreply.github.com,dollinad,39140769+dollinad@users.noreply.github.com,0.6388888888888888,0.7595721925133689,True,0.7593844325609032
+Damien Lespiau,damien.lespiau@gmail.com,Denis Merigoux,denis.merigoux@gmail.com,0.7385714285714287,0.7385714285714287,True,0.7908571428571429
+Damien Lespiau,damien.lespiau@gmail.com,Dmitry Kolupaev,dmitry.klpv@gmail.com,0.7395238095238095,0.658008658008658,True,0.7590129870129869
+Damien Lespiau,damien.lespiau@gmail.com,Gabriel Poesia,gabriel.poesia@gmail.com,0.7428571428571429,0.7428571428571429,True,0.7942857142857143
+Damien Lespiau,damien.lespiau@gmail.com,Sam Giles,sam.e.giles@gmail.com,0.6640211640211641,0.7245670995670995,True,0.7554353054353053
+Dan Glastonbury,dan.glastonbury@gmail.com,Dan Robertson,dan.robertson14@gmail.com,0.8271794871794872,0.6777777777777777,True,0.801982905982906
+Dan Glastonbury,dan.glastonbury@gmail.com,Sean Stangl,sean.stangl@gmail.com,0.7319865319865321,0.7319865319865321,True,0.7855892255892256
+Dan Glastonbury,dan.glastonbury@gmail.com,danalgen,daniel.l.sahlberg@gmail.com,0.8130555555555556,0.6357298474945533,True,0.7795141612200436
+Dan Glastonbury,dan.glastonbury@gmail.com,longsonr,longsonr@gmail.com,0.732936507936508,0.732936507936508,True,0.7863492063492064
+Dan Robertson,dan.robertson14@gmail.com,Dan Robertson,drobertson@tripwire.com,1.0,0.8999999999999999,False,0.76
+Dan Robertson,dan.robertson14@gmail.com,Daniel Robertson,dan.robertson@anidata.org,0.9203525641025642,0.9733333333333334,False,0.7574743589743591
+Dan Robertson,dan.robertson14@gmail.com,Daniel Robertson,danlrobertson89@gmail.com,0.9203525641025642,0.9066666666666667,True,0.9308076923076924
+Dan Robertson,dan.robertson14@gmail.com,Donovan Preston,donovanpreston@gmail.com,0.7647552447552448,0.6936507936507935,True,0.7833624153624152
+Dan Robertson,dan.robertson14@gmail.com,Kenan Rhoton,kenan.rhoton@gmail.com,0.719017094017094,0.7092592592592593,True,0.7713105413105414
+Daniel,ddefisher@gmail.com,Daniel Le,greenrecyclebin@gmail.com,0.9333333333333333,0.5111111111111111,True,0.7777777777777777
+Daniel,ddefisher@gmail.com,Danila Matveev,usurname.r@gmail.com,0.8380952380952381,0.5444444444444444,True,0.7530158730158731
+Daniel,ddefisher@gmail.com,danalgen,daniel.l.sahlberg@gmail.com,0.8269444444444445,0.6822284469343293,True,0.8036691565515095
+Daniel Adams,70986246+msub2@users.noreply.github.com,Daniel Hast,32797673+HastD@users.noreply.github.com,0.9136363636363637,0.5079365079365079,True,0.7686291486291486
+Daniel Johnson,danielj41@gmail.com,Daniel Robertson,danlrobertson89@gmail.com,0.876461038961039,0.562962962962963,True,0.7757696007696009
+Daniel Le,greenrecyclebin@gmail.com,Ian,greeenejd@gmail.com,0.6666666666666666,0.8203174603174603,True,0.7947936507936508
+Daniel Robertson,dan.robertson@anidata.org,Daniel Robertson,danlrobertson89@gmail.com,1.0,0.9353846153846154,False,0.7741538461538462
+Daniel Robertson,danlrobertson89@gmail.com,Donovan Preston,donovanpreston@gmail.com,0.7717045454545455,0.6936507936507935,True,0.7861421356421356
+Daniel Robertson,danlrobertson89@gmail.com,Kenan Rhoton,kenan.rhoton@gmail.com,0.7337962962962963,0.65,True,0.7535185185185185
+Daniel Robertson,danlrobertson89@gmail.com,delosrogers,delosrogers@gmail.com,0.7306818181818182,0.6702020202020202,True,0.7603535353535353
+Daosheng Mu,daoshengmu@gmail.com,Shing Lyu,shing.lyu@gmail.com,0.7373737373737373,0.6851851851851851,True,0.7690235690235689
+Daosheng Mu,daoshengmu@gmail.com,Xiaocheng Hu,xiaochengh.work@gmail.com,0.797979797979798,0.6666666666666666,True,0.7858585858585858
+Daosheng Mu,daoshengmu@gmail.com,askeing,askeing@gmail.com,0.7229437229437229,0.7380952380952381,True,0.7844155844155845
+Dave Herman,dherman@mozilla.com,David Shin,dshin@mozilla.com,0.8006060606060607,0.6761904761904761,True,0.7907186147186147
+David Zager,david.j.zager@gmail.com,Davide Giovannini,giovannini.davide90@gmail.com,0.8472964943553178,0.5403894351262771,True,0.755074371792638
+David Zbarsky,dzbarsky@gmail.com,Iszak Bryan,iszak.bryan@gmail.com,0.6558857808857809,0.7418831168831169,True,0.7591075591075591
+Delan Azabani,dazabani@igalia.com,delan azabani,dazabani@igalia.com,1.0,1.0,True,1.0
+Deokjin Kim,deokjin81.kim@samsung.com,aydin.kim,aydin.kim@samsung.com,0.7095959595959597,0.6768416768416768,True,0.7545750545750547
+Deokjin Kim,deokjin81.kim@samsung.com,aydinkim,aydin.kim@samsung.com,0.7095959595959597,0.6768416768416768,True,0.7545750545750547
+Derek Guenther,dguenther9@gmail.com,Greg Guthe,greg.guthe@gmail.com,0.7071428571428572,0.6777777777777777,True,0.753968253968254
+Desmond,info@desmonding.me,kingdido999,info@desmonding.me,0.4783549783549783,1.0,True,0.7913419913419915
+Dexter Haslem,dexter.haslem@gmail.com,Peter Hall,peterjoel@gmail.com,0.8051282051282053,0.6538461538461539,True,0.7835897435897436
+Diego Marcos,diego.marcos@gmail.com,Dongie Agnir,dongie.agnir@gmail.com,0.6944444444444443,0.6944444444444443,True,0.7555555555555555
+Diego Marcos,diego.marcos@gmail.com,Thomas Delacour,delacour.tom@gmail.com,0.6722222222222222,0.75,True,0.768888888888889
+Diego Pino,dpino@igalia.com,Diego Pino Garcia,dpino@igalia.com,0.9176470588235295,1.0,True,0.9670588235294117
+Domenico Rizzo,domenico.rizzo@gmail.com,Dominic Cooney,dominic.cooney@gmail.com,0.8200000000000001,0.8200000000000001,True,0.8560000000000001
+Dominic Cooney,dominic.cooney@gmail.com,Dominik Boehi,dominik.boehi@gmail.com,0.8670329670329671,0.8670329670329671,True,0.8936263736263736
+Duncan,duncan@vtllf.org,Duncan Keall,duncan@duncankeall.com,0.9,1.0,False,0.76
+Dzmitry Malyshau,dmalyshau@mozilla.com,Dzmitry Malyshau,kvark@mozilla.com,1.0,0.43703703703703706,True,0.7748148148148148
+Dzmitry Malyshau,kvark@mozilla.com,Dzmitry Malyshau,kvarkus@gmail.com,1.0,0.9428571428571428,False,0.7771428571428571
+Edgar Chen,echen@mozilla.com,Morgan Rae Reschenberg,mreschenberg@mozilla.com,0.6585858585858585,0.8055555555555557,True,0.7856565656565657
+Edgar Chen,echen@mozilla.com,Morgan Reschenberg,mreschenberg@mozilla.com,0.6888888888888888,0.8055555555555557,True,0.7977777777777777
+Edgar Chen,echen@mozilla.com,Sean Feng,sefeng@mozilla.com,0.6851851851851851,0.7000000000000001,True,0.7540740740740741
+Eduard Burtescu,edy.burt@gmail.com,Eduard-Mihai Burtescu,edy.burt@gmail.com,0.95,1.0,True,0.98
+Emilio Cobos Álvarez,ecoal95@gmail.com,ecoal95,ecoal95@gmail.com,0.5071428571428571,1.0,True,0.8028571428571429
+Eric Hegnes,eric.hegnes@gmail.com,Eric Holk,eric.holk@gmail.com,0.8424242424242424,0.8424242424242424,True,0.873939393939394
+Eric Hegnes,eric.hegnes@gmail.com,eshyong,eric.shyong@gmail.com,0.5616883116883117,0.865909090909091,True,0.7710389610389612
+Eric Holk,eric.holk@gmail.com,eshyong,eric.shyong@gmail.com,0.5873015873015873,0.882828282828283,True,0.7880519480519481
+Eric Holk,eric.holk@gmail.com,neerpancholi,neerjapancholi@gmail.com,0.7222222222222222,0.6984126984126983,True,0.7682539682539682
+Erik Hennig,github@erik-hennig.me,Erik Hennig,online@erik-hennig.me,1.0,0.4444444444444444,True,0.7777777777777779
+Erik Nordin,nordzilla@mozilla.com,enordin,enordin@mozilla.com,0.8051948051948052,0.7566137566137566,True,0.8247234247234247
+Evrim Öztamur,evrim.oztamur@gmail.com,Permutator,permutatorem@gmail.com,0.6985347985347986,0.6773504273504273,True,0.7503540903540904
+Fausto Núñez Alberro,fausto.nunez@mailbox.org,Fausto Núñez Alberro,fausto.nunez@outlook.com,1.0,1.0,False,0.8
+Felipe,fegolac@gmail.com,Felipe Lacerda,fegolac@gmail.com,0.8857142857142858,1.0,True,0.9542857142857144
+Felipe Lacerda,fegolac@gmail.com,Julien Wajsberg,felash@gmail.com,0.6079365079365079,0.7968253968253969,True,0.7619047619047619
+Fernando Jimenez Moreno,ferjmoreno@gmail.com,Fernando Jiménez Moreno,ferjmoreno@gmail.com,1.0,1.0,True,1.0
+Fernando Martins,martins.fernandomiguel@gmail.com,Florian Hartwig,florian.j.hartwig@gmail.com,0.7575,0.6550802139037434,True,0.7650320855614974
+Fernando Martins,martins.fernandomiguel@gmail.com,Martin Robinson,martin.james.robinson@gmail.com,0.5972222222222222,0.8353354978354979,True,0.7730230880230882
+Fernando Martins,martins.fernandomiguel@gmail.com,Martin Tomasi,martin.tomasi@gmail.com,0.6314102564102564,0.8603729603729604,True,0.7967132867132867
+Florent FAYOLLE,florent.fayolle69@gmail.com,Florian-Schoenherr,florian.schoenherr99@gmail.com,0.6727668845315904,0.8212299465240642,True,0.7975987324222618
+Florian Duraffourg,f.duraffourg@gmail.com,Florian Hartwig,florian.j.hartwig@gmail.com,0.8507070707070707,0.6174136321195145,True,0.787248281130634
+Florian Eula,mr.pikzen@gmail.com,Florian Merz,flomerz@gmail.com,0.9,0.4761904761904761,True,0.7504761904761905
+Florian Hartwig,florian.j.hartwig@gmail.com,Florian Merz,flomerz@gmail.com,0.87,0.6022408963585434,True,0.7888963585434174
+Florian Hartwig,florian.j.hartwig@gmail.com,Florian-Schoenherr,florian.schoenherr99@gmail.com,0.8258823529411765,0.6960784313725491,True,0.8087843137254902
+Florian Merz,flomerz@gmail.com,Florian-Schoenherr,florian.schoenherr99@gmail.com,0.8558823529411764,0.5880952380952381,True,0.7775910364145657
+Florian Merz,flomerz@gmail.com,Leonardo Razovic,leorazzo@gmail.com,0.6805555555555555,0.7130952380952381,True,0.7574603174603174
+Florian-Schoenherr,florian.schoenherr99@gmail.com,Ronak Nisher,nisher.ronak@gmail.com,0.7071895424836602,0.6707070707070707,True,0.7511586452762924
+Florian-Schoenherr,florian.schoenherr99@gmail.com,hirschenberger,falco.hirschenberger@gmail.com,0.6675070028011204,0.7862500000000001,True,0.7815028011204481
+Gabriel,g2p.code@gmail.com,Gabriel Poesia,gabriel.poesia@gmail.com,0.9,0.594047619047619,True,0.7976190476190477
+Gabriel Majeri,gabriel.majeri6@gmail.com,Gabriel Poesia,gabriel.poesia@gmail.com,0.8961038961038961,0.8856277056277057,True,0.9126926406926408
+Gabriel Poesia,gabriel.poesia@gmail.com,Pierre Louis Aublin,pierrelouis.aublin@gmail.com,0.6670084301663248,0.7080327080327079,True,0.7500164552796131
+Georg Streich,georg.streich@bluewin.ch,streichgeorg,georg.streich@bluewin.ch,0.46709401709401704,1.0,True,0.7868376068376068
+George Roman,george.roman.99@gmail.com,George White,georgeunix@gmail.com,0.8333333333333334,0.8333333333333334,True,0.8666666666666667
+George White,georgeunix@gmail.com,Greg Guthe,greg.guthe@gmail.com,0.765,0.6222222222222222,True,0.7548888888888889
+Gerald Squelart,gsquelart@mozilla.com,Ricky Stewart,rstewart@mozilla.com,0.6683760683760683,0.7268518518518517,True,0.7580911680911679
+Glenn Watson,github@intuitionlibrary.com,Glenn Watson,gw@intuitionlibrary.com,1.0,0.5555555555555555,True,0.8222222222222222
+Greg Guthe,greg.guthe@gmail.com,Greg Morenz,morenzg@gmail.com,0.8290909090909091,0.5761904761904763,True,0.7621125541125542
+Greg Guthe,greg.guthe@gmail.com,Gregory Katz,gregkatz@gmail.com,0.8200000000000001,0.8250000000000001,True,0.8580000000000001
+Greg Morenz,morenzg@gmail.com,Greg Myers,myersg86@gmail.com,0.8804545454545455,0.6071428571428571,True,0.795038961038961
+Greg Morenz,morenzg@gmail.com,Gregory Katz,gregkatz@gmail.com,0.8537878787878789,0.6071428571428571,True,0.7843722943722944
+Greg Morenz,morenzg@gmail.com,Gregory Szorc,gregory.szorc@gmail.com,0.8435314685314685,0.5663003663003664,True,0.763932733932734
+Greg Morenz,morenzg@gmail.com,Imanol Fernandez,mortimergoro@gmail.com,0.6174242424242424,0.7972222222222223,True,0.765858585858586
+Greg Morenz,morenzg@gmail.com,german gomez,germangb42@gmail.com,0.8027272727272726,0.6714285714285714,True,0.7896623376623377
+Greg Myers,myersg86@gmail.com,Gregory Szorc,gregory.szorc@gmail.com,0.8580769230769232,0.5365384615384615,True,0.7578461538461538
+Gregory,gterzian@users.noreply.github.com,Gregory Terzian,gterzian@users.noreply.github.com,0.8933333333333334,1.0,True,0.9573333333333334
+Gregory Katz,gregkatz@gmail.com,Gregory Szorc,gregory.szorc@gmail.com,0.8884615384615385,0.6698717948717948,True,0.8233333333333333
+Guillaume Bort,guillaume.bort@gmail.com,Guillaume Gomez,guillaume1.gomez@gmail.com,0.9038095238095238,0.8946428571428571,True,0.9193809523809524
+Guillaume Bort,guillaume.bort@gmail.com,ggomez,guillaume1.gomez@gmail.com,0.5714285714285715,0.8946428571428571,True,0.7864285714285715
+Guillaume Gomez,guillaume1.gomez@gmail.com,ggomez,guillaume1.gomez@gmail.com,0.5666666666666667,1.0,True,0.8266666666666667
+Hayden Faulds,fauldsh@gmail.com,Julien Wajsberg,felash@gmail.com,0.5726495726495727,0.8042857142857143,True,0.7507741147741149
+Hinali Marfatia,hinalimarfatia@gmail.com,Mukilan Thiyagarajan,mukilan.thiagarajan@gmail.com,0.7363247863247864,0.6670084301663248,True,0.7613332865964444
+Hinali Marfatia,hinalimarfatia@gmail.com,Mukilan Thiyagarajan,mukilanthiagarajan@gmail.com,0.7363247863247864,0.7301587301587301,True,0.7865934065934066
+Hinali Marfatia,hinalimarfatia@gmail.com,Paul Faria,pauldfaria@gmail.com,0.7361111111111112,0.6857142857142856,True,0.7687301587301587
+Hiroyuki Ikezoe,hiikezoe@mozilla-japan.org,Hiroyuki Ikezoe,hikezoe@mozilla.com,1.0,0.9666666666666667,False,0.7866666666666667
+Hiroyuki Ikezoe,hikezoe.birchill@mozilla.com,Hiroyuki Ikezoe,hikezoe@mozilla.com,1.0,0.8875,True,0.9550000000000001
+Hugh Gallagher,hgallagher1993@gmail.com,Hugh Gallagher,hgallagher@protonmail.com,1.0,0.9428571428571428,False,0.7771428571428571
+Hugo Thiessard,hugo.thiessard@etu.u-bordeaux.fr,Hugo Thiessard,hugo.thiessard@opmbx.org,1.0,1.0,False,0.8
+Hyowon Kim,hw1008.kim@samsung.com,HyunJune Kim,hyunjune.kim@samsung.com,0.8088888888888889,0.638888888888889,True,0.7791111111111111
+Hyun June Kim,hykim0777@gmail.com,hyunjunekim,hykim0777@gmail.com,0.9692307692307692,1.0,True,0.9876923076923076
+HyunJune Kim,hyunjune.kim@samsung.com,aydin.kim,aydin.kim@samsung.com,0.6805555555555557,0.7222222222222222,True,0.7611111111111113
+HyunJune Kim,hyunjune.kim@samsung.com,aydinkim,aydin.kim@samsung.com,0.6805555555555557,0.7222222222222222,True,0.7611111111111113
+ILyoan,ilyoan@gmail.com,Ilyong Cho,ilyoan@gmail.com,0.8666666666666667,1.0,True,0.9466666666666668
+ILyoan,ilyoan@gmail.com,Louis Chan,louischan0325@gmail.com,0.7111111111111112,0.6726495726495726,True,0.7535042735042736
+Isaac Ge,acgtyrant@gmail.com,acgtyrant,acgtyrant@gmail.com,0.4583333333333333,1.0,True,0.7833333333333334
+Istvan,istvan.miklos@h-lab.eu,Istvan Miklos,istvan.miklos@h-lab.eu,0.8923076923076924,1.0,True,0.956923076923077
+J. Ryan Stinnett,jryans@gmail.com,Jason Yeo,jasonyeo88@gmail.com,0.652910052910053,0.7400000000000001,True,0.7571640211640212
+JJ Weber,jjweber@gmail.com,oncemoreification,jjweber@gmail.com,0.406045751633987,1.0,True,0.7624183006535947
+Jack Britton,jack.britton@whiteops.com,Jack Britton,jackxbritton@gmail.com,1.0,0.9666666666666666,False,0.7866666666666666
+Jack Britton,jackxbritton@gmail.com,Zack Slayton,zack.slayton@gmail.com,0.7222222222222223,0.6666666666666666,True,0.7555555555555555
+Jack Moffitt,jack@ghost.local,Jack Moffitt,jack@metajack.im,1.0,1.0,False,0.8
+Jaeman Park,jaeman1.park@samsung.com,Jaemin Moon,jaemin.moon@samsung.com,0.6969696969696969,0.6818181818181818,True,0.7515151515151515
+Jaemin Moon,jaemin.moon@samsung.com,Jinwoo Song,jinwoo7.song@samsung.com,0.7389610389610389,0.6922799422799423,True,0.7724963924963926
+James Gilbertson,james.gilbertson@luniv.ca,Jamie Gilbertson,jamie.gilbertson@luniv.ca,0.9397222222222222,0.9397222222222222,True,0.9517777777777778
+James Graham,james@hoppipolla.co.uk,jgraham,james@hoppipolla.co.uk,0.7892857142857144,1.0,True,0.9157142857142857
+James Sanders,sanderjd@gmail.com,Jarda Snajdr,jsnajdr@gmail.com,0.7752136752136752,0.7579365079365079,True,0.8132600732600732
+Jan Varga,jan.varga@gmail.com,Julian Viereck,julian.viereck@gmail.com,0.6984126984126983,0.6984126984126983,True,0.7587301587301587
+Jason Schein,jasonschein@gmail.com,Jason Tran,jasontran1209@gmail.com,0.8566666666666667,0.668997668997669,True,0.8102657342657342
+Jason Schein,jasonschein@gmail.com,Jason Yeo,jasonyeo88@gmail.com,0.8722222222222222,0.8290909090909091,True,0.8805252525252525
+Jason Schein,jasonschein@gmail.com,aeischeid,a.eischeid@gmail.com,0.7222222222222222,0.7151515151515152,True,0.774949494949495
+Jason Tran,jasontran1209@gmail.com,Jason Williams,jase.williams@gmail.com,0.8400000000000001,0.5384615384615384,True,0.7513846153846155
+Jason Tran,jasontran1209@gmail.com,Jason Yeo,jasonyeo88@gmail.com,0.8533333333333333,0.6282051282051282,True,0.7926153846153845
+Jason Tran,jasontran1209@gmail.com,Jonathan Hao,johnathan79717@gmail.com,0.6972222222222223,0.7338827838827839,True,0.7724420024420025
+Jason Tran,jasontran1209@gmail.com,Jyotsna Prakash,jyotsna.prakash@gmail.com,0.7833333333333332,0.6329059829059829,True,0.7664957264957264
+Jason Williams,jase.williams@gmail.com,Jayflux,jase.williams@gmail.com,0.5476190476190476,1.0,True,0.819047619047619
+Jason Williams,jase.williams@gmail.com,Joe Wilm,jdwilm@gmail.com,0.8125,0.6581196581196581,True,0.7882478632478633
+Jason Williams,jase.williams@gmail.com,Nicolas Silva,nical.silva@gmail.com,0.7560772560772561,0.6558857808857809,True,0.7647852147852148
+JavaScript Joe,jjprevite@gmail.com,Joe Previte,jjprevite@gmail.com,0.6645021645021645,1.0,True,0.8658008658008658
+Jean-Marie Comets,jean.marie.comets@gmail.com,Martin Tomasi,martin.tomasi@gmail.com,0.7233391608391608,0.6524886877828054,True,0.7503311394487866
+Jeena Lee,ijeenalee@gmail.com,Jeremy Lempereur,jeremy.lempereur@gmail.com,0.7907407407407407,0.6805555555555555,True,0.7885185185185184
+Jeff Hajewski,jeff.hajewski@gmail.com,Jeff Harrison,jeffrharrison@gmail.com,0.8547008547008548,0.8211538461538462,True,0.8703418803418805
+Jefry Lagrange,jefry.reyes@gmail.com,Joel Feenstra,jrfeenst@gmail.com,0.6672771672771672,0.7386363636363638,True,0.7623654123654124
+Jeremy Ir,jir.opensource@gmail.com,Jeremy Lempereur,jeremy.lempereur@gmail.com,0.8777777777777778,0.6071428571428571,True,0.793968253968254
+Jeremy Lempereur,jeremy.lempereur-prestataire@fia-net.com,Jeremy Lempereur,jeremy.lempereur@gmail.com,1.0,0.9142857142857143,False,0.7657142857142858
+Jerod Santo,jerod.santo@gmail.com,Kenan Rhoton,kenan.rhoton@gmail.com,0.7146464646464646,0.7146464646464646,True,0.7717171717171718
+Jim Berlage,james.berlage@gmail.com,Joel Maher,joel.maher@gmail.com,0.7456818181818181,0.6509157509157509,True,0.7586390276390276
+Jinwoo Ahn,jinwoo.ahn@lge.com,jinwoo.ahn,jinwoo.ahn@lge.com,0.98,1.0,True,0.992
+Jo Steven Novaryo,65610990+stevennovaryo@users.noreply.github.com,Steven Novaryo,65610990+stevennovaryo@users.noreply.github.com,0.7983193277310924,1.0,True,0.919327731092437
+Joe Kachmar,joseph.kachmar@gmail.com,Joel Maher,joel.maher@gmail.com,0.8605303030303031,0.799047619047619,True,0.8638311688311688
+Joe Kachmar,joseph.kachmar@gmail.com,Joseph P DeBartola III,josephdebartola@gmail.com,0.6136363636363636,0.8263492063492064,True,0.775994227994228
+Joe Kachmar,joseph.kachmar@gmail.com,Josh Aas,joshmoz@gmail.com,0.7676767676767677,0.6190476190476191,True,0.7546897546897546
+Joe Wilm,jdwilm@gmail.com,Joel Maher,joel.maher@gmail.com,0.8094444444444445,0.6,True,0.7637777777777779
+Joe Wilm,jdwilm@gmail.com,Joseph Crail,jbcrail@gmail.com,0.8,0.6428571428571429,True,0.7771428571428571
+Joel Feenstra,jrfeenst@gmail.com,Joel Jose,joel750jose@gmail.com,0.8346764346764346,0.5492424242424242,True,0.7535675435675435
+Joel Feenstra,jrfeenst@gmail.com,Joel Maher,joel.maher@gmail.com,0.8476923076923077,0.5583333333333333,True,0.7624102564102564
+Joel Jose,joel750jose@gmail.com,Joel Maher,joel.maher@gmail.com,0.8533333333333333,0.6515151515151515,True,0.801939393939394
+Joel Maher,joel.maher@gmail.com,Joshua Holmer,jholmer.in@gmail.com,0.7774358974358975,0.7342857142857143,True,0.8046886446886448
+Joel Maher,joel.maher@gmail.com,Leo Lahti,leo.lahti1@gmail.com,0.7000000000000001,0.6777777777777777,True,0.7511111111111111
+John Lin,jolin@mozilla.com,Ting-Yu Lin,tlin@mozilla.com,0.7083333333333334,0.7833333333333333,True,0.7966666666666666
+Jonathan Giddy,jongiddy@gmail.com,Jonathan Guillotte-Blouin,jonathan.guillotte.blouin@gmail.com,0.8488095238095238,0.6083333333333333,True,0.7828571428571429
+Jonathan Giddy,jongiddy@gmail.com,Jonathan Hao,johnathan79717@gmail.com,0.8785714285714286,0.5297619047619048,True,0.7633333333333334
+Jonathan Guillotte-Blouin,jonathan.guillotte.blouin@gmail.com,Jonathan Hao,johnathan79717@gmail.com,0.85,0.5471428571428572,True,0.7588571428571429
+Jonathan Guillotte-Blouin,jonathan.guillotte.blouin@gmail.com,Jonathan Kew,jfkthame@gmail.com,0.85,0.5416666666666666,True,0.7566666666666666
+Jonathan Guillotte-Blouin,jonathan.guillotte.blouin@gmail.com,Jonathan Schuster,jonathan.p.schuster@gmail.com,0.8411764705882353,0.6834547908232119,True,0.8098525045645788
+Jonathan Hao,johnathan79717@gmail.com,Jonathan Kew,jfkthame@gmail.com,0.9,0.5119047619047619,True,0.7647619047619048
+Jonathan Hao,johnathan79717@gmail.com,Jonathan Schuster,jonathan.p.schuster@gmail.com,0.8843137254901962,0.5944026733500417,True,0.7914865595360951
+Jonathan Kew,jkew@mozilla.com,Jonathan Kingston,jkt@mozilla.com,0.8843137254901962,0.7777777777777778,True,0.8648366013071895
+Jonathan Kingston,jkt@mozilla.com,Jonathan Turner,jturner@mozilla.com,0.8578966131907309,0.6507936507936508,True,0.8034761055937527
+Jonathan Schuster,jonathan.p.schuster@gmail.com,Jyotsna Prakash,jyotsna.prakash@gmail.com,0.7322994652406416,0.6798511430090377,True,0.7648602432998717
+Joone Hur,joone.hur@intel.com,Joone Hur,joone@kldp.org,1.0,0.9111111111111111,False,0.7644444444444445
+Jose Monagas,43023347+JoseTMonagas@users.noreply.github.com,Joshua Holmes,91363480+joshua-holmes@users.noreply.github.com,0.8033119658119658,0.613997113997114,True,0.7669236319236319
+Joseph Crail,jbcrail@gmail.com,Josh Brudnak,jobrud314@gmail.com,0.8055555555555556,0.5873015873015873,True,0.7571428571428571
+Josh Aas,joshmoz@gmail.com,Josh Mcguigan,joshmcg88@gmail.com,0.8423076923076923,0.853968253968254,True,0.8785103785103785
+Josh Aas,joshmoz@gmail.com,j-koreth,joelsymon@gmail.com,0.6011904761904762,0.8052910052910053,True,0.7625925925925927
+Josh Aas,joshmoz@gmail.com,josiahdaniels,josiahd6@gmail.com,0.8298076923076922,0.6904761904761904,True,0.808113553113553
+Josh Brudnak,jobrud314@gmail.com,JoshBrudnak,jobrud314@gmail.com,0.9833333333333333,1.0,True,0.9933333333333334
+Josh Leverette,coder543@gmail.com,Joshua Holmer,jholmer.in@gmail.com,0.8373626373626374,0.5583333333333333,True,0.7582783882783883
+Julian Viereck,julian.viereck@gmail.com,Julien Levesy,jlevesy@gmail.com,0.8225885225885226,0.6190476190476191,True,0.7766544566544566
+Julian Viereck,julian.viereck@gmail.com,Liam Zdenek,liamzdenek@gmail.com,0.7245670995670995,0.6857142857142856,True,0.764112554112554
+Junyoung Cho,jun0cho@bigeye-mintlinux.(none),Junyoung Cho,jun0cho@gmail.com,1.0,1.0,False,0.8
+Junyoung Cho,jun0cho@bigeye-mintlinux.(none),Junyoung Cho,june0.cho@samsung.com,1.0,0.9481481481481482,False,0.7792592592592593
+Junyoung Cho,jun0cho@gmail.com,Junyoung Cho,june0.cho@samsung.com,1.0,0.9481481481481482,False,0.7792592592592593
+Junyoung Cho,jun0cho@gmail.com,Sungmann Cho,sungmann.cho@gmail.com,0.736111111111111,0.7103174603174603,True,0.7785714285714287
+Junyoung Cho,june0.cho@samsung.com,Young-il Choi,duddlf.choi@samsung.com,0.7592592592592592,0.6700336700336701,True,0.7717171717171718
+Junyoung Cho,june0.cho@samsung.com,june0cho,june0.cho@samsung.com,0.6944444444444445,1.0,True,0.8777777777777778
+Kamil Muszyński,muszynski.kamil@gmail.com,Kamil Niski,kamil.niski@gmail.com,0.8951515151515151,0.6057720057720059,True,0.8003694083694084
+Kamil Niski,kamil.niski@gmail.com,Luka Zitnik,luka.zitnik@gmail.com,0.7348484848484849,0.7348484848484849,True,0.7878787878787878
+Karl,karlding@users.noreply.github.com,nkdalmia,nkdalmia@users.noreply.github.com,0.7083333333333334,0.6833333333333332,True,0.7566666666666666
+Kerem Kat,keremkat@gmail.com,krk,keremkat@gmail.com,0.6296296296296297,1.0,True,0.8518518518518519
+Kishor Bhat,kishorbhat@gmail.com,khodzha,khodzha.sh@gmail.com,0.7506493506493506,0.6666666666666666,True,0.7669264069264068
+Kishor Bhat,kishorbhat@gmail.com,kilobtye,kilobtye@gmail.com,0.6212121212121212,0.7666666666666667,True,0.7551515151515151
+Kshitij Parajuli,kshitijparajuli@gmail.com,Shanil Puri,shanil.puri@gmail.com,0.7565235690235691,0.7118686868686869,True,0.7873569023569025
+Kshitij Parajuli,kshitijparajuli@gmail.com,akshitkrnagpal,akshitkrnagpal@gmail.com,0.7464285714285714,0.7603174603174603,True,0.8026984126984127
+Kuba Birecki,kuba.birecki@crystalplanet-studio.com,Kuba Birecki,kuba.birecki@crystalplanet.io,1.0,1.0,False,0.8
+Kunal Mohan,kunalmohan99@gmail.com,Mukilan Thiyagarajan,mukilanthiagarajan@gmail.com,0.7030303030303031,0.6759259259259259,True,0.7515824915824916
+Kyle Cesare,kcesare@gmail.com,Kyle Nosar,kylenosar@gmail.com,0.9054545454545454,0.780952380952381,True,0.8745627705627705
+Lars Bergstrom,lars@lars.com,Lars Bergstrom,larsberg@mozilla.com,1.0,0.9,False,0.76
+Lars Bergstrom,larsberg@mozilla.com,Lars Bergstrom,lbergstrom@mozilla.com,1.0,0.7439285714285715,True,0.8975714285714287
+Lars Bergstrom,lbergstrom@mozilla.com,bors-servo,lbergstrom+bors@mozilla.com,0.6164021164021164,0.9333333333333333,True,0.8198941798941799
+Learning,liangyongning@gmail.com,Yongning Liang,liangyongning@gmail.com,0.5119047619047619,1.0,True,0.8047619047619048
+Leo Lahti,leo.lahti1@gmail.com,Léo Stefanesco,leo.lveb@gmail.com,0.6428571428571428,0.8250000000000001,True,0.7871428571428571
+Leo Ring,59373587+leo030303@users.noreply.github.com,leo030303,59373587+leo030303@users.noreply.github.com,0.5694444444444444,1.0,True,0.8277777777777777
+Leonardo Santagada,santagada@gmail.com,Mantaroh Yoshinaga,mantaroh@gmail.com,0.75,0.6481481481481481,True,0.7592592592592593
+Leonardo Santagada,santagada@gmail.com,Rafael Dantas,rafagd@gmail.com,0.7243589743589745,0.7037037037037037,True,0.7712250712250712
+Leonardo Santagada,santagada@gmail.com,Rafael Gomes Dantas,rafagd@gmail.com,0.695349484823169,0.7037037037037037,True,0.7596212754107492
+Leonardo Santagada,santagada@gmail.com,Sean Stangl,sean.stangl@gmail.com,0.6986531986531986,0.7636363636363637,True,0.784915824915825
+Louis Chang,lochang@mozilla.com,Mason Chang,mchang@mozilla.com,0.7765151515151515,0.8492063492063492,True,0.8502886002886003
+Lucas Fantacuci,lucasfantacuci@gmail.com,Lucas Lois,lucasloisp@gmail.com,0.8333333333333334,0.6761904761904761,True,0.8038095238095238
+Lucas Fantacuci,lucasfantacuci@gmail.com,Lucas Sanches Fantacuci,lucasfantacuci@gmail.com,0.8904347826086957,1.0,True,0.9561739130434783
+Lucas Fantacuci,lucasfantacuci@gmail.com,Lucjan Suski,lucjansuski@gmail.com,0.8224074074074075,0.8071969696969696,True,0.8518417508417508
+Lucas Lois,lucasloisp@gmail.com,Lucjan Suski,lucjansuski@gmail.com,0.8172222222222223,0.8118181818181819,True,0.8516161616161617
+Lucas Sanches Fantacuci,lucasfantacuci@gmail.com,Lucjan Suski,lucjansuski@gmail.com,0.6298309178743962,0.8071969696969696,True,0.7748111550285464
+Luka Zitnik,luka.zitnik@gmail.com,lucantrop,luka.hadzi@gmail.com,0.6033670033670034,0.8672727272727273,True,0.7882558922558924
+MDCODE247,122866986+MDCODE247@users.noreply.github.com,moe,35686186+csmoe@users.noreply.github.com,0.7999999999999999,0.575187969924812,True,0.7500751879699248
+Magnus Larsen,golgothasTerror101@gmail.com,Magnus Larsen,i.am.larsenml@gmail.com,1.0,0.42079772079772076,True,0.7683190883190882
+Maharsh,maharsh312@gmail.com,Mantaroh Yoshinaga,mantaroh@gmail.com,0.798941798941799,0.7666666666666667,True,0.8262433862433862
+Malisa Smith,malisa.tsmith@gmail.com,Manish Goregaokar,manishearth@gmail.com,0.6174136321195145,0.77995337995338,True,0.7589468048291579
+Malisa Smith,malisa.tsmith@gmail.com,Manish Goregaokar,manishsmail@gmail.com,0.6174136321195145,0.7913752913752913,True,0.7635155693979223
+Malisa Smith,malisa.tsmith@gmail.com,Martin Tomasi,martin.tomasi@gmail.com,0.7623931623931625,0.796923076923077,True,0.8237264957264958
+Malisa Smith,malisa.tsmith@gmail.com,Maxim Tsoy,maks.tsoy@gmail.com,0.7707936507936508,0.7675213675213676,True,0.8153260073260074
+Manish Goregaokar,Manishearth@users.noreply.github.com,Manish Goregaokar,manishearth@gmail.com,1.0,0.9393939393939394,False,0.7757575757575759
+Manish Goregaokar,manishearth@gmail.com,Manish Goregaokar,manishsmail@gmail.com,1.0,0.8545454545454545,True,0.9418181818181819
+Manish Goregaokar,manishearth@gmail.com,Manpreet Singh Matharu,matharumanpreet00@gmail.com,0.7957973399149869,0.6492869875222816,True,0.7780337309749075
+Manish Goregaokar,manishearth@gmail.com,Mantaroh Yoshinaga,mantaroh@gmail.com,0.6797385620915032,0.7967171717171718,True,0.7905822935234701
+Manoj,manoj.mk27@gmail.com,Martin Tomasi,martin.tomasi@gmail.com,0.7620512820512821,0.6316239316239316,True,0.7574700854700855
+Manpreet Singh Matharu,matharumanpreet00@gmail.com,Mantaroh Yoshinaga,mantaroh@gmail.com,0.7966329966329967,0.7717086834733894,True,0.8273366720425543
+Mantaroh Yoshinaga,mantaroh@gmail.com,Mariot Chauvin,mariot.chauvin@gmail.com,0.6899470899470899,0.6964285714285715,True,0.7545502645502646
+Mantaroh Yoshinaga,mantaroh@gmail.com,Martin Tomasi,martin.tomasi@gmail.com,0.7666096866096868,0.6816239316239318,True,0.7792934472934474
+Mantaroh Yoshinaga,mantaroh@gmail.com,Mukilan Thiyagarajan,mukilan.thiagarajan@gmail.com,0.7424358974358973,0.6330409356725147,True,0.7501907332433648
+Mantaroh Yoshinaga,mantaroh@gmail.com,Mukilan Thiyagarajan,mukilanthiagarajan@gmail.com,0.7424358974358973,0.7363095238095237,True,0.7914981684981683
+Manuel Rego,rego@igalia.com,Manuel Rego Casasnovas,rego@igalia.com,0.9,1.0,True,0.96
+Marcin Mielniczuk,marmistrz.dev@zoho.eu,Marcin Mielniczuk,marmistrzmar@gmail.com,1.0,0.8884615384615385,False,0.7553846153846154
+Marcin Mielniczuk,marmistrzmar@gmail.com,Marco Schulze,marco.c.schulze@gmail.com,0.8314932126696833,0.5833333333333334,True,0.7659306184012067
+Marcin Mielniczuk,marmistrzmar@gmail.com,Martin McNickle,mmcnickle@gmail.com,0.8599346405228758,0.5277777777777778,True,0.7550849673202615
+Marcin Mielniczuk,marmistrzmar@gmail.com,Mu Xian Ming,marsmxm@gmail.com,0.670751633986928,0.8111111111111111,True,0.7927450980392157
+Margaret Meyerhofer,mmeyerho@andrew,Margaret Meyerhofer,mmeyerhofer@mozilla.com,1.0,0.9454545454545455,False,0.7781818181818183
+Margaret Meyerhofer,mmeyerhofer@mozilla.com,Morgan Rae Reschenberg,mreschenberg@mozilla.com,0.6958304853041696,0.6922799422799423,True,0.7552441710336448
+Mariot Chauvin,mariot.chauvin@gmail.com,Martin Tomasi,martin.tomasi@gmail.com,0.793019943019943,0.793019943019943,True,0.8344159544159544
+Markus Stange,mstange.moz@gmail.com,Markus Stange,mstange@themasta.com,1.0,0.9272727272727272,False,0.770909090909091
+Martin Feckie,mfeckie@gmail.com,Martin McNickle,mmcnickle@gmail.com,0.8977156177156177,0.6899470899470899,True,0.835065083065083
+Martin McNickle,mmcnickle@gmail.com,Nathan Climer,nclimer@gmail.com,0.711965811965812,0.6899470899470899,True,0.7607651607651607
+Martin Robinson,martin.james.robinson@gmail.com,Martin Tomasi,martin.tomasi@gmail.com,0.8671794871794872,0.8822344322344322,True,0.8997655677655678
+Martin Robinson,mrobinson@igalia.com,Martin Robinson,mrobinson@webkit.org,1.0,1.0,False,0.8
+Martin Stransky,stransky@redhat.com,stransky,stransky@redhat.com,0.5861111111111111,1.0,True,0.8344444444444445
+Martin Tomasi,martin.tomasi@gmail.com,Mateusz 'Haggus' Mrowiec,matt.mrowiec@gmail.com,0.6263921263921265,0.792022792022792,True,0.7673659673659674
+Martin Tomasi,martin.tomasi@gmail.com,Matt,mattkramara@gmail.com,0.8153846153846154,0.6297036297036297,True,0.778035298035298
+Martin Tomasi,martin.tomasi@gmail.com,Maxim Tsoy,maks.tsoy@gmail.com,0.7774358974358975,0.5982905982905983,True,0.7502905982905983
+Mason Chang,mchang@mozilla.com,Morgan Reschenberg,mreschenberg@mozilla.com,0.7493939393939395,0.6666666666666666,True,0.7664242424242425
+Mateusz 'Haggus' Mrowiec,matt.mrowiec@gmail.com,Matt Schmoyer,mattschmo@gmail.com,0.6412587412587413,0.8333333333333334,True,0.7898368298368299
+Mathieu Hordesseaux,mathieu@adopteunmec.com,Mathieu Rheaume,mathieu@codingrhemes.com,0.9054636591478696,1.0,False,0.7621854636591479
+Matt,mattkramara@gmail.com,Matt Murphy,matthew.john.murphy@gmail.com,0.8727272727272728,0.620414673046252,True,0.79725677830941
+Matt,mattkramara@gmail.com,Matt Schmoyer,mattschmo@gmail.com,0.8615384615384615,0.6700336700336701,True,0.8126288526288525
+Matt,mattkramara@gmail.com,Matthew Bentley,matthew.t.bentley@gmail.com,0.8533333333333333,0.5329768270944741,True,0.754524064171123
+Matt,mattkramara@gmail.com,Matthew Kuo,matthewkuo92@gmail.com,0.8727272727272728,0.6237373737373737,True,0.7985858585858585
+Matt,mattkramara@gmail.com,mati865,mati865@gmail.com,0.8083333333333333,0.5670995670995671,True,0.7501731601731603
+Matt Murphy,matthew.john.murphy@gmail.com,Matt Schmoyer,mattschmo@gmail.com,0.8576534576534577,0.6677805625174046,True,0.810173608068345
+Matt Murphy,matthew.john.murphy@gmail.com,Matthew Bentley,matthew.t.bentley@gmail.com,0.6533910533910534,0.8270194202082747,True,0.7921641894397313
+Matt Murphy,matthew.john.murphy@gmail.com,Matthew Kuo,matthewkuo92@gmail.com,0.6969696969696969,0.8225146198830409,True,0.8077937267410951
+Matt Schmoyer,mattschmo@gmail.com,Matthew Kuo,matthewkuo92@gmail.com,0.6773226773226773,0.8333333333333334,True,0.8042624042624043
+Matt Schmoyer,mattschmo@gmail.com,Maxim Tsoy,maks.tsoy@gmail.com,0.8107692307692308,0.6370370370370371,True,0.7791225071225072
+Matthew Bentley,matthew.t.bentley@gmail.com,Matthew Kuo,matthewkuo92@gmail.com,0.8521212121212122,0.6650326797385621,True,0.8068615567439097
+Matthew Kuo,matthewkuo92@gmail.com,Matthew Young,mabufo@gmail.com,0.9156643356643357,0.6666666666666666,True,0.8329324009324008
+Maxwell Borden,maxwellborden@gmail.com,malayaleecoder,malayaleecoder@gmail.com,0.6878306878306879,0.7634513634513634,True,0.7805128205128204
+MechaXL,mechaxl@gmail.com,Mucha Naibei,muchajulius@gmail.com,0.6349206349206349,0.7506493506493506,True,0.7542279942279941
+MechaXL,mechaxl@gmail.com,ecoal95,ecoal95@gmail.com,0.7142857142857143,0.7142857142857143,True,0.7714285714285716
+Michael Booth,michaelboothj@gmail.com,Michael Droettboom,mdboom@gmail.com,0.8846153846153847,0.6581196581196581,True,0.8170940170940171
+Michael Booth,michaelboothj@gmail.com,Michael Partheil,michael.partheil@gmail.com,0.8788461538461538,0.8509615384615385,True,0.891923076923077
+Michael Booth,michaelboothj@gmail.com,Michael Rosenberg,42micro@gmail.com,0.8514932126696833,0.6263736263736264,True,0.7911467356173238
+Michael Booth,michaelboothj@gmail.com,Mike Blumenkrantz,michael.blumenkrantz@gmail.com,0.6024563671622495,0.8284615384615385,True,0.7723671622495152
+Michael Booth,michaelboothj@gmail.com,Mike Fairhurst,michaelrfairhurst@gmail.com,0.5842490842490843,0.8221216691804927,True,0.7625483013718308
+Michael Booth,michaelboothj@gmail.com,zmike,michael.blumenkrantz@gmail.com,0.6102564102564102,0.8284615384615385,True,0.7754871794871794
+Michael Brennan,brennan.brisad@gmail.com,Michael Tremel,itrekkie@gmail.com,0.8761904761904762,0.5297619047619048,True,0.7623809523809524
+Michael Droettboom,mdboom@gmail.com,Michael Rosenberg,42micro@gmail.com,0.8745098039215686,0.5396825396825397,True,0.7656769374416434
+Michael G,56165400+michaelgrigoryan25@users.noreply.github.com,Michael Grigoryan,56165400+michaelgrigoryan25@users.noreply.github.com,0.9058823529411765,1.0,True,0.9623529411764706
+Michael G,56165400+michaelgrigoryan25@users.noreply.github.com,michaelgrigoryan25,56165400+michaelgrigoryan25@users.noreply.github.com,0.8666666666666666,1.0,True,0.9466666666666668
+Michael Grigoryan,56165400+michaelgrigoryan25@users.noreply.github.com,michaelgrigoryan25,56165400+michaelgrigoryan25@users.noreply.github.com,0.9660130718954247,1.0,True,0.9864052287581699
+Michael Howell,michael@notriddle.com,Michael Layzell,michael@thelayzells.com,0.8856277056277057,1.0,False,0.7542510822510823
+Michael Howell,michael@notriddle.com,Michael Mc Donnell,michael@mcdonnell.dk,0.9047619047619048,1.0,False,0.761904761904762
+Michael Nelson,absoludity@gmail.com,Michael Wilson,wilsoniya@gmail.com,0.9095238095238095,0.6185185185185186,True,0.8112169312169313
+Michael Partheil,michael.partheil@gmail.com,Michael Rosenberg,42micro@gmail.com,0.8426470588235294,0.6071428571428571,True,0.7799159663865547
+Michael Partheil,michael.partheil@gmail.com,Michael Tremel,itrekkie@gmail.com,0.9047619047619048,0.5208333333333334,True,0.7702380952380954
+Michael Partheil,michael.partheil@gmail.com,Mike Blumenkrantz,michael.blumenkrantz@gmail.com,0.6232298474945533,0.8617307692307693,True,0.793984246690129
+Michael Partheil,michael.partheil@gmail.com,Mike Fairhurst,michaelrfairhurst@gmail.com,0.6240079365079364,0.857843137254902,True,0.7927404295051355
+Michael Partheil,michael.partheil@gmail.com,Mitchell Van Der Hoeff,mitchell.vanderhoeff@gmail.com,0.6985722610722611,0.7746153846153845,True,0.7892750582750583
+Michael Partheil,michael.partheil@gmail.com,Shanil Puri,shanil.puri@gmail.com,0.7007575757575758,0.7007575757575758,True,0.7606060606060607
+Michael Partheil,michael.partheil@gmail.com,discomfitor,michael.blumenkrantz@gmail.com,0.529040404040404,0.8617307692307693,True,0.7563084693084694
+Michael Partheil,michael.partheil@gmail.com,zmike,michael.blumenkrantz@gmail.com,0.5958333333333333,0.8617307692307693,True,0.7830256410256411
+Michael Rosenberg,42micro@gmail.com,Michael Tremel,itrekkie@gmail.com,0.8865546218487396,0.5119047619047619,True,0.7593837535014005
+Michael Woerister,mwoerister@mozilla.com,Michael Wu,mwu@mozilla.com,0.8858823529411766,0.6222222222222222,True,0.8032418300653597
+Michal Mieczkowski,mieczkowski@fastmail.com,Michał Mieczkowski,mieczkowski@fastmail.com,0.9777777777777777,1.0,True,0.991111111111111
+Mike Blumenkrantz,michael.blumenkrantz@gmail.com,Mike Fairhurst,michaelrfairhurst@gmail.com,0.6870525988173046,0.8212299465240642,True,0.8033130181365475
+Mike Blumenkrantz,michael.blumenkrantz@gmail.com,zmike,michael.blumenkrantz@gmail.com,0.6784313725490195,1.0,True,0.8713725490196078
+Mike Blumenkrantz,zmike@osg.samsung.com,Mike Blumenkrantz,zmike@samsung.com,1.0,1.0,False,0.8
+Mike Fairhurst,michaelrfairhurst@gmail.com,zmike,michael.blumenkrantz@gmail.com,0.6952380952380953,0.8212299465240642,True,0.8065872167048638
+Mike Hommey,mh+mozilla@glandium.org,Mike Hommey,mh@glandium.org,1.0,0.7866666666666667,True,0.9146666666666667
+Mike MacDonald,crazymykl@gmail.com,Mike MacDonald (crazymykl),crazymykl@gmail.com,0.9166666666666667,1.0,True,0.9666666666666668
+Morgan Rae Reschenberg,mreschenberg@mozilla.com,Morgan Reschenberg,mreschenberg@mozilla.com,0.9191919191919192,1.0,True,0.9676767676767677
+Morris Tseng,mtseng@mozilla.com,Sean Feng,sefeng@mozilla.com,0.6574074074074074,0.7777777777777777,True,0.7740740740740741
+Ms2ger,Ms2ger@gmail.com,Ms2ger,ms2ger@gmail.com,1.0,0.888888888888889,True,0.9555555555555557
+Mukilan Thiyagarajan,mukilan.thiagarajan@gmail.com,Mukilan Thiyagarajan,mukilanthiagarajan@gmail.com,1.0,0.9894736842105263,True,0.9957894736842106
+Mukilan Thiyagarajan,mukilan@igalia.com,Mukilan Thiyagarajan,mukilanthiagarajan@gmail.com,1.0,0.8777777777777778,False,0.7511111111111112
+Nakul Jindal,nakul02@gmail.com,Rahul Menon,menonrahul02@gmail.com,0.6237373737373737,0.7857142857142857,True,0.7637806637806637
+Nathan Froyd,froydnj@gmail.com,Nathan Froyd,froydnj@mozilla.com,1.0,1.0,False,0.8
+Ngo Iok Ui (Wu Yu Wei),yuweiwu@pm.me,Wu Yuwei,yuweiwu@pm.me,0.5583333333333333,1.0,True,0.8233333333333335
+Nicolas,ashlebede@gmail.com,Nicolas Silva,nical.silva@gmail.com,0.9076923076923077,0.468013468013468,True,0.7502823102823102
+Nicolas,ashlebede@gmail.com,minimus,ashlebede@gmail.com,0.5079365079365079,1.0,True,0.8031746031746032
+Nicolas Silva,nical.silva@gmail.com,Nicolas Silva,nical@fastmail.com,1.0,0.890909090909091,False,0.7563636363636365
+Nikhil Chinthapallee,nchinth@ncsu.edu,nchinth,nchinth@ncsu.edu,0.6880952380952382,1.0,True,0.8752380952380954
+Nikhil Shagrithaya,nikhilshagri@gmail.com,Ridhim Rastogi,ridhimrastogi@gmail.com,0.6899470899470899,0.719017094017094,True,0.7635856735856736
+Nupur Baghel,nupurbaghel@gmail.com,nupurbaghel,nupurbaghel@gmail.com,0.9833333333333333,1.0,True,0.9933333333333334
+Okhuomon Ajayi,okhuomonajayi54@gmail.com,Rosemary Ajayi,okhuomonajayi54@gmail.com,0.6309523809523809,1.0,True,0.8523809523809525
+P. Albrecht,palbrecht@mailbox.org,Philipp Albrecht,palbrecht@mailbox.org,0.7675000000000001,1.0,True,0.907
+P. Albrecht,palbrecht@mailbox.org,Philipp Albrecht,pylbrecht@mailbox.org,0.7675000000000001,0.9333333333333333,True,0.8803333333333334
+P. Albrecht,palbrecht@mailbox.org,pylbrecht,palbrecht@mailbox.org,0.9066666666666667,1.0,True,0.9626666666666668
+Patrick Shaughnessy,pshaughn@comcast.net,pshaughn,pshaughn@comcast.net,0.7888157894736842,1.0,True,0.9155263157894737
+Paul Faria,pauldfaria@gmail.com,Paul Padier,magni.harvald@gmail.com,0.8804545454545455,0.5615384615384615,True,0.7767972027972028
+Per Lundberg,per.lundberg@ecraft.com,Per Lundberg,perlun@gmail.com,1.0,0.8833333333333334,False,0.7533333333333334
+Per Lundberg,perlun@gmail.com,Yerkebulan Tulibergenov,yerkebulan@gmail.com,0.6893719806763285,0.7111111111111112,True,0.760193236714976
+Peter,piter.zh@gmail.com,Peter,ptrgonda@gmail.com,1.0,0.5833333333333334,True,0.8333333333333335
+Peter,piter.zh@gmail.com,Peter Hall,peterjoel@gmail.com,0.9,0.5648148148148148,True,0.7859259259259259
+Peter,piter.zh@gmail.com,Peter Reid,peter.d.reid@gmail.com,0.9,0.6138888888888889,True,0.8055555555555556
+Peter,piter.zh@gmail.com,PeterZhizhin,piter.zh@gmail.com,0.8833333333333334,1.0,True,0.9533333333333334
+Peter,ptrgonda@gmail.com,Peter Hall,peterjoel@gmail.com,0.9,0.6481481481481481,True,0.8192592592592594
+Peter,ptrgonda@gmail.com,Peter Reid,peter.d.reid@gmail.com,0.9,0.611111111111111,True,0.8044444444444445
+Peter,ptrgonda@gmail.com,PeterZhizhin,piter.zh@gmail.com,0.8833333333333334,0.5833333333333334,True,0.7866666666666668
+Peter Hall,peterjoel@gmail.com,Peter Reid,peter.d.reid@gmail.com,0.8400000000000001,0.8333333333333334,True,0.8693333333333335
+Peter Hall,peterjoel@gmail.com,PeterZhizhin,piter.zh@gmail.com,0.8200000000000001,0.5648148148148148,True,0.7539259259259259
+Peter Reid,peter.d.reid@gmail.com,PeterZhizhin,piter.zh@gmail.com,0.8200000000000001,0.6138888888888889,True,0.7735555555555556
+Philip Horger,campadrenalin@gmail.com,Philip Munksgaard,pmunksgaard@gmail.com,0.8221216691804927,0.582084582084582,True,0.7616825005060299
+Philipp Albrecht,palbrecht@mailbox.org,Philipp Albrecht,pylbrecht@mailbox.org,1.0,0.9333333333333333,True,0.9733333333333334
+Philipp Albrecht,palbrecht@mailbox.org,pylbrecht,palbrecht@mailbox.org,0.6712962962962963,1.0,True,0.8685185185185185
+Philipp Albrecht,pylbrecht@mailbox.org,pylbrecht,palbrecht@mailbox.org,0.6712962962962963,0.9333333333333333,True,0.8418518518518519
+Pi-Cla,pirateclip@protonmail.com,派卡 (pi-cla),pirateclip@protonmail.com,0.875,1.0,True,0.95
+Pi-Cla,pirateclip@protonmail.com,石蕊 (Pi-Cla),pirateclip@protonmail.com,0.875,1.0,True,0.95
+Pierre Louis Aublin,pierre-louis.aublin@inria.fr,Pierre Louis Aublin,pierrelouis.aublin@gmail.com,1.0,0.9894736842105263,False,0.7957894736842106
+Pierre Louis Aublin,pierrelouis.aublin@gmail.com,schaars,pierrelouis.aublin@gmail.com,0.46365914786967416,1.0,True,0.7854636591478696
+Prabhjyot Singh Sodhi,prabhjyotsingh95@gmail.com,Prabhjyot Singh Sodhi,prabhyotsingh95@gmail.com,1.0,0.9874999999999999,True,0.9950000000000001
+Prashant Gupta,prashantgupta24@gmail.com,Prasoon Shukla,prasoon92.iitr@gmail.com,0.8349206349206351,0.6079365079365079,True,0.7771428571428571
+Prashant Gupta,prashantgupta24@gmail.com,akshitkrnagpal,akshitkrnagpal@gmail.com,0.7095238095238096,0.6936507936507935,True,0.7612698412698413
+Rafael Dantas,rafagd@gmail.com,Rafael Gomes Dantas,rafagd@gmail.com,0.8906882591093117,1.0,True,0.9562753036437248
+Rafael Dantas,rafagd@gmail.com,Rafael Quintero,rafaqtro@gmail.com,0.8584615384615384,0.8333333333333334,True,0.8767179487179488
+Rafael Gomes Dantas,rafagd@gmail.com,Rafael Quintero,rafaqtro@gmail.com,0.8260925039872409,0.8333333333333334,True,0.8637703349282297
+Rafael Quintero,rafaqtro@gmail.com,Raphael Nestler,raphael.nestler@gmail.com,0.7955555555555556,0.5888888888888889,True,0.7537777777777779
+Raghav,rmuddur@gmail.com,mrnayak,rmuddur@gmail.com,0.6428571428571429,1.0,True,0.8571428571428572
+Rakhi Sharma,atbrakhi@gmail.com,Rakhi Sharma,rakhish1994@gmail.com,1.0,0.6265151515151516,True,0.8506060606060606
+Rakhi Sharma,atbrakhi@gmail.com,atbrakhi,atbrakhi@gmail.com,0.5833333333333334,1.0,True,0.8333333333333335
+Ramshell,ramshellcinox@gmail.com,Raphael Nestler,raphael.nestler@gmail.com,0.7733333333333333,0.6207570207570208,True,0.7576361416361417
+Rasmus Viitanen,rasviitanen@gmail.com,Rasmus Viitanen,rasviitanen@localhost.localdomain,1.0,1.0,False,0.8
+Rasmus Viitanen,rasviitanen@gmail.com,Vegard Sandengen,vegardsandengen@gmail.com,0.6837962962962963,0.7118686868686869,True,0.7582659932659932
+Ravi Shankar,wafflespeanut@gmail.com,Wafflespeanut,wafflespeanut@gmail.com,0.547008547008547,1.0,True,0.8188034188034188
+Robert Fielding,rob.fielding@gmail.com,Robert Snakard,robert.snakard@gmail.com,0.8263492063492064,0.5992063492063493,True,0.7702222222222224
+Robert Longson,longsonr@gmail.com,longsonr,longsonr@gmail.com,0.5119047619047619,1.0,True,0.8047619047619048
+Rohan Prinja,rohan.prinja@gmail.com,Rohan Prinja,rohan@cs.unc.edu,1.0,0.8833333333333334,False,0.7533333333333334
+Rohan Prinja,rohan.prinja@gmail.com,rohan.prinja,rohan.prinja@samsung.com,0.9833333333333333,1.0,False,0.7933333333333333
+Rohit Zambre,RZ13@dhcp-v007-158.mobile.uci.edu,Rohit Zambre,RZ13@dhcp-v058-081.mobile.uci.edu,1.0,1.0,False,0.8
+Ryan Choi,ryan.choi@samsung.com,yichoi,duddlf.choi@samsung.com,0.7962962962962963,0.6700336700336701,True,0.7865319865319866
+Rémy SAISSY,remy.saissy@gmail.com,Yanir Seroussi,yanir.seroussi@gmail.com,0.7092352092352092,0.7092352092352092,True,0.7673881673881675
+Sam,16504129+sagudev@users.noreply.github.com,Sam K,155700084+hashcatHitman@users.noreply.github.com,0.9066666666666667,0.5329968944099379,True,0.7758654244306418
+Sam,16504129+sagudev@users.noreply.github.com,Samson,16504129+sagudev@users.noreply.github.com,0.8833333333333334,1.0,True,0.9533333333333334
+Sam,16504129+sagudev@users.noreply.github.com,sagu,16504129+sagudev@users.noreply.github.com,0.7777777777777778,1.0,True,0.9111111111111112
+Sam,16504129+sagudev@users.noreply.github.com,sagudev,16504129+sagudev@users.noreply.github.com,0.6507936507936508,1.0,True,0.8603174603174604
+Sam,sam@sam.uk.net,Sam Wood,sam@sam.uk.net,0.8541666666666666,1.0,True,0.9416666666666667
+Sam Liu,sam@ambushnetworks.com,Sam Mauldin,sam@mauldin.me,0.8987012987012987,1.0,False,0.7594805194805195
+Samson,16504129+sagudev@users.noreply.github.com,sagu,16504129+sagudev@users.noreply.github.com,0.611111111111111,1.0,True,0.8444444444444446
+Samson,16504129+sagudev@users.noreply.github.com,sagudev,16504129+sagudev@users.noreply.github.com,0.5396825396825397,1.0,True,0.8158730158730159
+Samuel Harrington,samuel.l.harrington@gmail.com,Swarnim Arun,swarnimarun11@gmail.com,0.7364705882352942,0.6479232268705952,True,0.7537575260423557
+Sangeun Kim,sammy.kim@samsung.com,aydin.kim,aydin.kim@samsung.com,0.6931818181818182,0.7777777777777777,True,0.7883838383838384
+Sangeun Kim,sammy.kim@samsung.com,aydinkim,aydin.kim@samsung.com,0.6931818181818182,0.7777777777777777,True,0.7883838383838384
+Saurabh Anand,saurabhanandiit@gmail.com,Saurabh Badhwar,sbsaurabhbadhwar9@gmail.com,0.8977156177156177,0.6516339869281046,True,0.8197398418574888
+Saurabh Anand,saurabhanandiit@gmail.com,Saurav Sachidanand,sauravsachidanand@gmail.com,0.8846153846153847,0.8511764705882353,True,0.894316742081448
+Saurabh Badhwar,sbsaurabhbadhwar9@gmail.com,Saurav Sachidanand,sauravsachidanand@gmail.com,0.8244444444444444,0.6254901960784314,True,0.7799738562091503
+Saurabh Badhwar,sbsaurabhbadhwar9@gmail.com,sharath,sharath.savasere@gmail.com,0.6412698412698412,0.7339705882352942,True,0.7500961718020542
+Saurav Sachidanand,sauravsachidanand@gmail.com,Savid Sharan,savidsharan@gmail.com,0.8444444444444443,0.8331550802139037,True,0.8710398098633392
+Savid Sharan,savidsharan@gmail.com,qpid,sauravsachidanand@gmail.com,0.5555555555555555,0.8331550802139037,True,0.7554842543077838
+Savid Sharan,savidsharan@gmail.com,santoshpavan,santoshpavan.psp@gmail.com,0.7777777777777779,0.6590909090909091,True,0.7747474747474747
+Scott Trinh,strinh@Scotts-MBP-2.shootproof.com,Scott Trinh,strinh@Scotts-MacBook-Pro-2.local,1.0,1.0,False,0.8
+Sean Burke,leftmostcat@gmail.com,Sean McArthur,sean.monstar@gmail.com,0.6985347985347986,0.6818181818181818,True,0.7521411921411922
+Sean Feng,sefeng@mozilla.com,Sean Stangl,sstangl@mozilla.com,0.882828282828283,0.6428571428571429,True,0.8102741702741703
+Sean Feng,sefeng@mozilla.com,Sean Voisen,svoisen@mozilla.com,0.882828282828283,0.6428571428571429,True,0.8102741702741703
+Sean Feng,sefeng@mozilla.com,sefeng,sefeng@mozilla.com,0.8666666666666667,1.0,True,0.9466666666666668
+Sean McArthur,sean.monstar@gmail.com,Sean Stangl,sean.stangl@gmail.com,0.6773226773226773,0.8691919191919192,True,0.8186058386058386
+Sean McArthur,sean.monstar@gmail.com,Swarnim Arun,swarnimarun11@gmail.com,0.7326923076923078,0.6596459096459096,True,0.756935286935287
+Sean Stangl,sean.stangl@gmail.com,Sebastian Gift,sebastian.gift@gmail.com,0.7970177970177971,0.7970177970177971,True,0.8376142376142377
+Sean Stangl,sean.stangl@gmail.com,Sonia Singla,soniasingla.1812@gmail.com,0.7704545454545454,0.6454124579124579,True,0.7663468013468013
+Sean Stangl,sean.stangl@gmail.com,Stjepan Glavina,stjepang@gmail.com,0.7527272727272727,0.6931818181818182,True,0.7783636363636364
+Sean Stangl,sean.stangl@gmail.com,Sumant Manne,sumant.manne@gmail.com,0.6922799422799423,0.6922799422799423,True,0.753823953823954
+Sean Stangl,sean.stangl@gmail.com,sbansal3096,sbansal3096@gmail.com,0.6969696969696969,0.6969696969696969,True,0.7575757575757576
+Sean Stangl,sstangl@mozilla.com,Sean Voisen,svoisen@mozilla.com,0.8545454545454545,0.5238095238095238,True,0.7513419913419914
+Sebastian C,sebscoolmail@gmail.com,Sebastian C,sebsebmc@gmail.com,1.0,0.6944444444444445,True,0.8777777777777778
+Sebastian C,sebscoolmail@gmail.com,Sebastian Gift,sebastian.gift@gmail.com,0.9246753246753247,0.5873015873015873,True,0.8047907647907648
+Sebastian C,sebscoolmail@gmail.com,Sebastian Kaspari,s.kaspari@gmail.com,0.8994652406417112,0.5925925925925926,True,0.7968231332937215
+Sebastian C,sebsebmc@gmail.com,Sebastian Gift,sebastian.gift@gmail.com,0.9246753246753247,0.5952380952380952,True,0.807965367965368
+Sebastian C,sebsebmc@gmail.com,Sebastian Kaspari,s.kaspari@gmail.com,0.8994652406417112,0.49074074074074076,True,0.7560823925529807
+Sebastian Gift,sebastian.gift@gmail.com,Sebastian Kaspari,s.kaspari@gmail.com,0.8865546218487396,0.5708994708994709,True,0.7829816370992841
+Sebastian Gift,sebastian.gift@gmail.com,askeing,askeing@gmail.com,0.7063492063492064,0.7063492063492064,True,0.7650793650793652
+Sebastian Kaspari,s.kaspari@gmail.com,Shreya Bastikar,shreyabastikar@gmail.com,0.7767647058823529,0.6428571428571428,True,0.7678487394957982
+SendilKumar N,sendilkumarn@live.com,sendilkumarn,sendilkumarn@live.com,0.9846153846153847,1.0,True,0.9938461538461538
+Shamir Khodzha,khodzha.sh@gmail.com,khodzha,khodzha.sh@gmail.com,0.43650793650793646,1.0,True,0.7746031746031745
+Shanavas M,shanavas.m2@gmail.com,santoshpavan,santoshpavan.psp@gmail.com,0.6972222222222223,0.6824494949494949,True,0.7518686868686868
+Shanil Puri,shanil.puri@gmail.com,Shing Lyu,shing.lyu@gmail.com,0.7675805675805676,0.7675805675805676,True,0.8140644540644542
+Shing Lyu,shing.lyu@gmail.com,Stephen (Ziyun) Li,stephen.liziyun@gmail.com,0.6908068783068783,0.7733333333333333,True,0.7856560846560847
+Shubham Kumaram,shubhamkumaram@gmail.com,Shubheksha Jalan,jshubheksha@gmail.com,0.8383333333333334,0.6645021645021645,True,0.8011341991341991
+Simon Pieters,zcorpan@gmail.com,Simon Whitehead,chemnova@gmail.com,0.8671794871794872,0.6071428571428571,True,0.7897289377289378
+SimranGujral,gujralsimran19@gmail.com,Swarnim Arun,swarnimarun11@gmail.com,0.75,0.7043142043142043,True,0.7817256817256817
+Stephen (Ziyun) Li,stephen.liziyun@gmail.com,Stephen A Pohl,spohl.mozilla.bugs@gmail.com,0.8678571428571429,0.575925925925926,True,0.7775132275132275
+Stephen (Ziyun) Li,stephen.liziyun@gmail.com,Stephen Muss,stephenmuss@gmail.com,0.8625,0.8521212121212122,True,0.8858484848484849
+Stephen A Pohl,spohl.mozilla.bugs@gmail.com,Stephen Muss,stephenmuss@gmail.com,0.8476190476190476,0.6262626262626262,True,0.7895526695526696
+Steve Melia,steve.j.melia@gmail.com,Steve Sweetney,stevesweetney@gmail.com,0.8272727272727273,0.6410256410256411,True,0.7873193473193474
+Stjepan Glavina,stjepang@gmail.com,Tshepang Lekhonkhobe,tshepang@gmail.com,0.6555555555555556,0.8690476190476191,True,0.8098412698412698
+Sumant Manne,sumant.manne@gmail.com,Sungmann Cho,sungmann.cho@gmail.com,0.6944444444444443,0.6944444444444443,True,0.7555555555555555
+Sumit,srivassumit@gmail.com,Sumith,sumith1896@gmail.com,0.9666666666666667,0.46060606060606063,True,0.770909090909091
+Sumit,srivassumit@gmail.com,sumit0190,sumi29@gmail.com,0.9111111111111111,0.5050505050505051,True,0.7664646464646465
+Sumith,sumith1896@gmail.com,sumit0190,sumi29@gmail.com,0.8777777777777778,0.8666666666666667,True,0.8977777777777778
+Sylvester Willis,sylvester.lee.willis@gmail.com,Tyler Wilcock,tyler.l.wilcock@gmail.com,0.67752849002849,0.7005050505050505,True,0.7512134162134163
+Tamir Duberstein,tamird@gmail.com,Tamir Duberstein,tamird@google.com,1.0,1.0,False,0.8
+Tamir Duberstein,tamird@gmail.com,Tamir Duberstein,tamird@squareup.com,1.0,1.0,False,0.8
+Tamir Duberstein,tamird@gmail.com,Tim van der Meij,timvandermeij@gmail.com,0.65,0.7384615384615385,True,0.7553846153846153
+Tamir Duberstein,tamird@google.com,Tamir Duberstein,tamird@squareup.com,1.0,1.0,False,0.8
+Tara,tbvanc@gmail.com,Tareq A Khandaker,tareqakhandaker@gmail.com,0.8215686274509804,0.5666666666666667,True,0.7552941176470589
+Tetsuharu OHZEKI,saneyuki.s.snyk@gmail.com,Tetsuharu OHZEKI,saneyuki.snyk@gmail.com,1.0,0.9733333333333334,True,0.9893333333333334
+Tetsuharu OHZEKI,saneyuki.s.snyk@gmail.com,Tetsuharu OHZEKI,tetsuharu.ohzeki@gmail.com,1.0,0.48055555555555557,True,0.7922222222222222
+Tetsuharu OHZEKI,saneyuki.s.snyk@gmail.com,saneyuki_s,saneyuki.s.snyk@gmail.com,0.39814814814814814,1.0,True,0.7592592592592593
+Tetsuharu OHZEKI,saneyuki.snyk@gmail.com,Tetsuharu OHZEKI,tetsuharu.ohzeki@gmail.com,1.0,0.5010683760683761,True,0.8004273504273505
+Teymour Aldridge,teymour@reasoning.page,teymour-aldridge,teymour.aldridge@icloud.com,0.9874999999999999,0.8875,False,0.75
+Theodore Kokkoris,t.kokkoris@gmail.com,tgkokk,t.kokkoris@gmail.com,0.642483660130719,1.0,True,0.8569934640522876
+Thiago Pontes,email@thiago.me,Thiago Pontes,github@thiago.me,1.0,0.45555555555555555,True,0.7822222222222222
+Thomas Delacour,delacour.tom@gmail.com,Thomas Jespersen,laumann.thomas@gmail.com,0.8325,0.5992063492063493,True,0.7726825396825396
+Thomas Delacour,thomas.delacour@mongodb.com,Thomas Delacour,thomasdelacour@Thomass-MacBook-Pro.local,1.0,0.9866666666666667,False,0.7946666666666667
+Thomas Nguyen,tnguyen@mozilla.com,Thomas Wisniewski,twisniewski@mozilla.com,0.8443438914027149,0.5670995670995671,True,0.7645773834009129
+Tim,tkuehn@cmu.edu,Tim Kuehn,tkuehn@cmu.edu,0.8444444444444443,1.0,True,0.9377777777777778
+Tim Cuthbertson,tim@gfxmonk.net,Tim Taubert,tim@timtaubert.de,0.8951515151515151,1.0,False,0.7580606060606061
+Tim Kuehn,tkuehn@cmu.edu,tkuehn,tkuehn@host-7-125.mv.mozilla.com,0.8999999999999999,1.0,False,0.76
+Tim Nguyen,ntim.bugs@gmail.com,Timothy Guan-tin Chien,timdream@gmail.com,0.8174074074074075,0.5694444444444444,True,0.7547407407407407
+Tim van der Meij,timvandermeij@gmail.com,Timothy Guan-tin Chien,timdream@gmail.com,0.6266534391534392,0.8810897435897437,True,0.8030972730972732
+Timur Borkhodoev,timur.borkhodoev@mail.utoronto.ca,Timur Borkhodoev,timurborkhodoev@Timurs-MacBook-Pro.local,1.0,0.9874999999999999,False,0.795
+Tom Servo,servo@ip-172-31-11-188.us-west-2.compute.internal,Tom Servo,servo@ip-172-31-8-242.us-west-2.compute.internal,1.0,1.0,False,0.8
+Tom Servo,servo@ip-172-31-11-188.us-west-2.compute.internal,Tom Servo,servo@server.blueoceanstudios.us,1.0,1.0,False,0.8
+Tom Servo,servo@ip-172-31-8-242.us-west-2.compute.internal,Tom Servo,servo@server.blueoceanstudios.us,1.0,1.0,False,0.8
+Tomas Di Vito,tomasdv2@gmail.com,Tomasz Miąsko,tomasz.miasko@gmail.com,0.8461538461538461,0.6698717948717948,True,0.8064102564102564
+Tomasz Kołodziejski,tkolodziejski@gmail.com,Tomasz Miąsko,tomasz.miasko@gmail.com,0.8486566065513435,0.6410256410256411,True,0.7958728990307937
+Tommy,pajamapants3000@gmail.com,Tommy Lincoln,pajamapants3000@gmail.com,0.8769230769230769,1.0,True,0.9507692307692308
+Tumuhairwe,51232461+jahielkomu@users.noreply.github.com,komuhangi,51232461+jahielkomu@users.noreply.github.com,0.6185185185185186,1.0,True,0.8474074074074074
+Tuna,dvt.tnhn.krlbs@icloud.com,Tunahan Karlibas,dvt.tnhn.krlbs@icloud.com,0.85,1.0,True,0.94
+Usman Yahaya Baba,91813795+UssyMan@users.noreply.github.com,Usman Yahaya Baba,91813795+uthmaniv@users.noreply.github.com,1.0,0.8669117647058824,True,0.946764705882353
+Valentin Fokin,fokinv@inf.u-szeged.hu,fokinv,fokinv@inf.u-szeged.hu,0.4603174603174603,1.0,True,0.7841269841269842
+Veronika Bušů,paricbat@email.cz,Veronika Horáčků,paricbat@email.cz,0.8788461538461538,1.0,True,0.9515384615384617
+Ville Lindholm,ville.lindholm@external.wolt.com,Ville Lindholm,ville.lindholm@iki.fi,1.0,1.0,False,0.8
+Wu Yu Wei,wusyong9104@gmail.com,Yu-Wei Wu,wusyong9104@gmail.com,0.6944444444444443,1.0,True,0.8777777777777778
+Xiao Chuan Yu,xcyu.se@gmail.com,Xiaochuan Yu,xcyu.se@gmail.com,0.9346153846153846,1.0,True,0.9738461538461538
+Xiaocheng Hu,xiaochengh.work@gmail.com,Xiaochuan Yu,xcyu.se@gmail.com,0.8777777777777778,0.5293650793650794,True,0.7628571428571429
+Yanir Seroussi,yanir.seroussi@gmail.com,saneyuki_s,saneyuki.s.snyk@gmail.com,0.7367724867724869,0.6936507936507935,True,0.7721693121693121
+Yash Sajwan,yashsajwan12345@gmail.com,aakashjain,aakashj19@gmail.com,0.7311688311688312,0.652910052910053,True,0.7536315536315537
+Ying-Ruei Liang (KK),thumbd03803@gmail.com,Ying-Ruei Liang(KK),thumbd03803@gmail.com,0.9882352941176471,1.0,True,0.9952941176470589
+Yoav Alon,yoava333@gmail.com,Yoav Alon,yoaval@checkpoint.com,1.0,0.8916666666666667,False,0.7566666666666667
+Young-il Choi,duddlf.choi@samsung.com,yichoi,duddlf.choi@samsung.com,0.47222222222222215,1.0,True,0.788888888888889
+Youngmin Yoo,youngmin.yoo@samsung.com,"Youngmin, Yoo",youngmin.yoo@samsung.com,1.0,1.0,True,1.0
+Youngmin Yoo,youngmin.yoo@samsung.com,Youngsoo Son,ysoo.son@samsung.com,0.8555555555555555,0.6138888888888889,True,0.7877777777777777
+"Youngmin, Yoo",youngmin.yoo@samsung.com,Youngsoo Son,ysoo.son@samsung.com,0.8555555555555555,0.6138888888888889,True,0.7877777777777777
+Zaggy1024,Zaggy1024@gmail.com,daemon1024,barun1024@gmail.com,0.6851851851851851,0.7037037037037037,True,0.7555555555555555
+Zakor,gyula.zakor@h-lab.eu,Zakor Gyula,gyula.zakor@h-lab.eu,0.890909090909091,1.0,True,0.9563636363636365
+Zakor,gyula.zakor@h-lab.eu,zakorgy,gyula.zakor@gmail.com,0.9428571428571428,1.0,False,0.7771428571428571
+Zakor,gyula.zakor@h-lab.eu,zakorgyula,gyula.zakor@gmail.com,0.9,1.0,False,0.76
+Zakor Gyula,gyula.zakor@h-lab.eu,zakorgy,gyula.zakor@gmail.com,0.9272727272727272,1.0,False,0.770909090909091
+Zakor Gyula,gyula.zakor@h-lab.eu,zakorgyula,gyula.zakor@gmail.com,0.9818181818181818,1.0,False,0.7927272727272727
+Zakor Gyula,zakorgy@inf.u-szeged.hu,zakorgy,zakorgy@inf.u-szeged.hu,0.9272727272727272,1.0,True,0.9709090909090909
+Zhen Zhang,izgzhen@gmail.com,zhengrenzhe,zhengrenzhe.niujie@gmail.com,0.8387012987012987,0.6190476190476191,True,0.7830995670995671
+aakashjain,aakashj19@gmail.com,atbrakhi,atbrakhi@gmail.com,0.7375,0.6481481481481481,True,0.7542592592592592
+adit,aditjain1980@gmail.com,aditj,aditjain1980@gmail.com,0.96,1.0,True,0.984
+akshitkrnagpal,akshitkrnagpal@gmail.com,askeing,askeing@gmail.com,0.7357142857142858,0.7357142857142858,True,0.7885714285714287
+askeing,askeing@gmail.com,wayling,waylingII@gmail.com,0.7142857142857143,0.671957671957672,True,0.7544973544973546
+atbrakhi,atbrakhi@gmail.com,atbrakhi,atbrakhi@igalia.com,1.0,1.0,False,0.8
+aydin.kim,aydin.kim@samsung.com,aydinkim,aydin.kim@samsung.com,1.0,1.0,True,1.0
+bd339,bd339@localhost.localdomain,bd339,bd339@tuta.io,1.0,1.0,False,0.8
+bors-servo,lbergstrom+bors@mozilla.com,bors-servo,release+servo@mozilla.com,1.0,0.5912393162393162,True,0.8364957264957265
+bors-servo,lbergstrom+bors@mozilla.com,bors-servo,servo-ops@mozilla.com,1.0,0.6333333333333333,True,0.8533333333333333
+bors-servo,release+servo@mozilla.com,bors-servo,servo-ops@mozilla.com,1.0,0.5007122507122507,True,0.8002849002849004
+cdeler,serj.krotov@gmail.com,drexler,andrew.quartey@gmail.com,0.8492063492063492,0.5372294372294372,True,0.7545743145743147
+chickenleaf,lashwinib@gmail.com,chickenleaf,vyaan2000@gmail.com,1.0,0.48148148148148145,True,0.7925925925925925
+coalman,tehcoalman@gmail.com,ecoal95,ecoal95@gmail.com,0.7142857142857143,0.7380952380952381,True,0.7809523809523811
+codehag,yulia.startsev@gmail.com,ioctaptceb,yulia.startsev@gmail.com,0.46507936507936504,1.0,True,0.7860317460317461
+cybai,cyb.ai.815@gmail.com,cybai (Haku),cyb.ai.815@gmail.com,0.9,1.0,True,0.96
+dan-robertson,32962574+dan-robertson@users.noreply.github.com,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,0.7471153846153846,0.6595765345765345,True,0.7626767676767676
+danalgen,daniel.l.sahlberg@gmail.com,danxionglei,danxionglei@gmail.com,0.8526515151515152,0.5772430184194891,True,0.7719578134284018
+delosrogers,delosrogers@gmail.com,longsonr,longsonr@gmail.com,0.7095959595959597,0.7095959595959597,True,0.7676767676767677
+dependabot-preview[bot],27856297+dependabot-preview[bot]@users.noreply.github.com,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,0.9299999999999999,0.7523148148148149,True,0.8729259259259259
+fokinv,fokin.valentin@stud.u-szeged.hu,fokinv,fokinv@inf.u-szeged.hu,1.0,0.8857142857142858,False,0.7542857142857143
+fokinv,fokin.valentin@stud.u-szeged.hu,fokinv,fokinvalen@gmail.com,1.0,0.9428571428571428,False,0.7771428571428571
+fokinv,fokinv@inf.u-szeged.hu,fokinv,fokinvalen@gmail.com,1.0,0.92,False,0.768
+hgentry,harrison.c.gentry@gmail.com,hgentry,harrison@gentryville.net,1.0,0.8941176470588236,False,0.7576470588235295
+hiei23,yuikazuga_25@hotmail.co.uk,si hua,yuikazuga_25@hotmail.co.uk,0.4444444444444444,1.0,True,0.7777777777777779
+jsharda,jsharda@ncsu.edu,snarasi6,snarasi6@ncsu.edu,0.6904761904761904,0.6904761904761904,True,0.7523809523809524
+kilobtye,kilobtye@gmail.com,klutzy,klutzytheklutzy@gmail.com,0.75,0.6527777777777778,True,0.7611111111111111
+modal-d17,modal-d17@github.com,modal17,modal17@github.com,0.975,0.9555555555555556,True,0.9722222222222223
+neerpancholi,neerjapancholi@gmail.com,nnethercote,n.nethercote@gmail.com,0.7431818181818182,0.6626984126984127,True,0.7623520923520923
+ronak,ronak@localhost.localdomain,rwa,rwa@localhost.localdomain,0.6888888888888888,0.6888888888888888,True,0.7511111111111111
+s-maurice,51819025+s-maurice@users.noreply.github.com,sagu,16504129+sagudev@users.noreply.github.com,0.7375,0.6752946127946128,True,0.7651178451178451
+sagu,16504129+sagudev@users.noreply.github.com,sagudev,16504129+sagudev@users.noreply.github.com,0.9142857142857143,1.0,True,0.9657142857142857
+sagudev,16504129+sagudev@users.noreply.github.com,sandeep,107111616+sandeepB3@users.noreply.github.com,0.7714285714285715,0.6416910331384015,True,0.7652478418267892
+saku,saku@email.sakupi01.com,saku,sakupi1101@outlook.jp,1.0,0.88,False,0.752
+tanishka,109246904+taniishkaaa@users.noreply.github.com,tannal,149947508+tannal@users.noreply.github.com,0.8055555555555556,0.676497113997114,True,0.7928210678210679
+zakorgy,gyula.zakor@gmail.com,zakorgyula,gyula.zakor@gmail.com,0.9400000000000001,1.0,True,0.976
+派卡 (pi-cla),pirateclip@protonmail.com,石蕊 (Pi-Cla),pirateclip@protonmail.com,0.8333333333333334,1.0,True,0.9333333333333333

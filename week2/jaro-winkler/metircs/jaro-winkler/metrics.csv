@@ -1,0 +1,7 @@
+Metric, Bird Heuristic (t=0.7), Improved Heuristic (t=0.75), Improvement
+Total predicted pairs, 5552, 662, –88.1% (much fewer false matches)
+True Positives (TP), 369, 199, –46.1% (slight drop — expected)
+False Positives (FP), 5183, 463, –91.1% (huge precision gain)
+Precision, 0.066, 0.301, +356%
+Recall (approx), 0.695, 0.375, –46% (fewer total detections)
+F1 Score, 0.121, 0.334, +176%
