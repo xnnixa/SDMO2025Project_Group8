@@ -39,7 +39,7 @@ We began with the **Bird heuristic**, implemented its logic, and then designed i
 
 The following chart shows how each method performs in terms of **Precision**, **Recall**, and **F1 Score**:
 
-![Performance Comparison](week2/faiss/metrics/all comparisons.png)
+![Performance Comparison](week2/faiss/metrics/all%20comparisons.png)
 
 > The semantic FAISS model achieved the **highest overall accuracy (F1 = 0.49)** while maintaining good recall and significantly reducing false positives compared to the Bird baseline.
 
