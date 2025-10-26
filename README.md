@@ -67,19 +67,22 @@ The following chart shows how each method performs in terms of **Precision**, **
 
 ## 📁 Folder Structure
 
+```text
 SDMO2025Project_Group8/
 │
 ├── week1/
-│ ├── devs/ # Bird heuristic outputs
-│ ├── metrics/bird/ # Bird metrics and charts
-│ └── project1developers.py # Bird heuristic implementation
+│   ├── devs/                     # Bird heuristic outputs
+│   ├── metrics/bird/             # Bird metrics and charts
+│   └── project1developers.py     # Bird heuristic implementation
 │
 ├── week2/
-│ ├── jaro-winkler/ # Improved heuristic (Jaro–Winkler)
-│ ├── faiss/ # Semantic + FAISS implementation
-│ └── metrics/ # Visual and CSV performance reports
+│   ├── jaro-winkler/             # Improved heuristic (Jaro–Winkler)
+│   ├── faiss/                    # Semantic + FAISS implementation
+│   └── metrics/                  # Visual and CSV performance reports
 │
 └── README.md
+
+```
 
 ---
 
