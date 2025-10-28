@@ -28,7 +28,6 @@ The three projects are:
 - `project3anomaly.py`: Script demonstrating temporal state detection on temporal networks of microservice calls for Project 3
 - `requirements.txt`: List of used libraries with specified versions
 
-
 ## Running the scripts
 
 The scripts were developed and tested on a Mac (UNIX) environment with Python 3.10.
@@ -37,3 +36,87 @@ There should be no compatibility issues with running the scripts on Windows.
 The versions of imported libraries are provided in `requirements.txt`.
 
 It is recommended to create a Python virtual environment and install the exact versions there.
+
+## Environment Setup
+
+The scripts were developed and tested on Python **3.13**, but they are compatible with Python **3.10+**.
+
+It is recommended to use a **virtual environment** to isolate dependencies.
+
+### Steps
+
+1. **Create and activate a virtual environment**
+
+   ```bash
+   python -m venv .venv
+   .\.venv\Scripts\activate  # Windows
+   source .venv/bin/activate  # macOS/Linux
+   ```
+
+2. **Install dependencies**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the scripts**
+   ```bash
+   python project1developers.py
+   python project2centrality.py
+   python project3anomaly.py
+   ```
+
+## Unit Tests
+
+### Purpose
+
+Unit tests verify the correctness of main functionalities:
+
+- Developer name normalization and similarity (Project 1)
+- Inter-service call extraction from trace data (Project 2)
+- Temporal state detection and anomaly grouping (Project 3)
+
+---
+
+### Files
+
+- `tests/test_project1developers.py` – tests developer name processing and similarity
+- `tests/test_project2centrality.py` – tests data preparation and inter-service call mapping
+- `tests/test_project3anomaly.py` – tests interval grouping and state detection (mocked)
+
+---
+
+### How to Run Tests
+
+1. **Navigate to the project directory**  
+   Make sure you are in the main project folder (the same level as `requirements.txt`). Example:
+
+   ```bash
+   cd SDMO2025Project
+   ```
+
+2. **Install pytest and required packages**
+
+   ```bash
+   pip install -r requirements.txt
+   pip install pytest
+   ```
+
+3. **Run all tests**
+
+   ```bash
+   pytest -v
+   ```
+
+4. **Run a single test file**
+
+   ```bash
+   pytest tests/test_project2centrality.py -v
+   ```
+
+5. **Stop after first failure (optional)**
+   ```bash
+   pytest -x
+   ```
+
+---

@@ -30,8 +30,14 @@ import os
 
 DEVS = []
 # Read csv file with name,dev columns
-with open(os.path.join("project1devs", "devs.csv"), 'r', newline='') as csvfile:
-    reader = csv.reader(csvfile, delimiter=',')
+with open(
+    os.path.join(os.path.dirname(__file__), "project1devs", "devs.csv"),
+    "r",
+    newline="",
+    encoding="utf-8",
+) as csvfile:
+
+    reader = csv.reader(csvfile, delimiter=",")
     for row in reader:
         DEVS.append(row)
 # First element is header, skip
@@ -46,13 +52,12 @@ def process(dev):
     trans = name.maketrans("", "", string.punctuation)
     name = name.translate(trans)
     # Remove accents, diacritics
-    name = unicodedata.normalize('NFKD', name)
-    name = ''.join([c for c in name if not unicodedata.combining(c)])
+    name = unicodedata.normalize("NFKD", name)
+    name = "".join([c for c in name if not unicodedata.combining(c)])
     # Lowercase
     name = name.casefold()
     # Strip whitespace
     name = " ".join(name.split())
-
 
     # Attempt to split name into firstname, lastname by space
     parts = name.split(" ")
@@ -101,19 +106,32 @@ for dev_a, dev_b in combinations(DEVS, 2):
         c7 = i_last_b in prefix_a and first_b in prefix_a
 
     # Save similarity data for each conditions. Original names are saved
-    SIMILARITY.append([dev_a[0], email_a, dev_b[0], email_b, c1, c2, c31, c32, c4, c5, c6, c7])
-
+    SIMILARITY.append(
+        [dev_a[0], email_a, dev_b[0], email_b, c1, c2, c31, c32, c4, c5, c6, c7]
+    )
 
 
 # Save data on all pairs (might be too big -> comment out to avoid)
-cols = ["name_1", "email_1", "name_2", "email_2", "c1", "c2",
-        "c3.1", "c3.2", "c4", "c5", "c6", "c7"]
+cols = [
+    "name_1",
+    "email_1",
+    "name_2",
+    "email_2",
+    "c1",
+    "c2",
+    "c3.1",
+    "c3.2",
+    "c4",
+    "c5",
+    "c6",
+    "c7",
+]
 df = pd.DataFrame(SIMILARITY, columns=cols)
 df.to_csv(os.path.join("project1devs", "devs_similarity.csv"), index=False, header=True)
 
 
 # Set similarity threshold, check c1-c3 against the threshold
-t=0.7
+t = 0.7
 print("Threshold:", t)
 df["c1_check"] = df["c1"] >= t
 df["c2_check"] = df["c2"] >= t
@@ -122,6 +140,22 @@ df["c3_check"] = (df["c3.1"] >= t) & (df["c3.2"] >= t)
 df = df[df[["c1_check", "c2_check", "c3_check", "c4", "c5", "c6", "c7"]].any(axis=1)]
 
 # Omit "check" columns, save to csv
-df = df[["name_1", "email_1", "name_2", "email_2", "c1", "c2",
-        "c3.1", "c3.2", "c4", "c5", "c6", "c7"]]
-df.to_csv(os.path.join("project1devs", f"devs_similarity_t={t}.csv"), index=False, header=True)
+df = df[
+    [
+        "name_1",
+        "email_1",
+        "name_2",
+        "email_2",
+        "c1",
+        "c2",
+        "c3.1",
+        "c3.2",
+        "c4",
+        "c5",
+        "c6",
+        "c7",
+    ]
+]
+df.to_csv(
+    os.path.join("project1devs", f"devs_similarity_t={t}.csv"), index=False, header=True
+)
