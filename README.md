@@ -19,7 +19,7 @@ The three projects are:
 - `project2&3traces/`: Directory with data for Projects 2 & 3
   - `train-ticket-traces.csv`: CSV file with traces for train-ticket system from an open dataset
   - `project2edgeflow.csv`: CSV file providing a list of real-time service calls for Project 2
-  - `project3anomaly.csv`: CSV file providing snapshot networks for service calls grouped by intervals for Project 3
+  - `project3snapshots.csv`: CSV file providing snapshot networks for service calls grouped by intervals for Project 3
   - `project2_katz_exponential.csv`: CSV file with Temporal Katz Centrality with exponential decay
   - `project2_katz_constant.csv`: CSV file with Temporal Katz Centrality with constant decay
   - `project2_katz_truncated.csv`: CSV file with Temporal Katz Centrality with truncated exponential decay
