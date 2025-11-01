@@ -39,7 +39,7 @@ def mock_embeddings():
 # ---------------------------
 
 def test_load_developers(sample_data):
-    csv_path, df_original = sample_data
+    csv_path, _ = sample_data
     df = pipeline.load_developers(csv_path)
 
     assert "text" in df.columns
@@ -55,7 +55,7 @@ def test_create_embeddings(monkeypatch, sample_data):
     df = pipeline.load_developers(csv_path)
 
     class MockModel:
-        def encode(self, texts, convert_to_numpy=True, show_progress_bar=True):
+        def encode(self, texts):
             return np.ones((len(texts), 3))
 
     monkeypatch.setattr(pipeline, "SentenceTransformer", lambda _: MockModel())
